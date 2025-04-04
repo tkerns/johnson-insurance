@@ -9,3 +9,63 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+
+/*
+* ============================
+* Default Styles
+*=============================
+*/
+
+@layer components {
+    h1 {
+        @apply text-3xl font-bold mb-2
+    }
+
+    h2 {
+        @apply text-2xl font-bold mb-2
+    }
+
+    h3 {
+        @apply text-xl font-bold mb-2
+    }
+
+    p {
+        @apply my-4;
+    }
+
+    a {
+        @apply hover:underline focus:underline;
+    }
+
+    button {
+        @apply px-3 py-2 border-t-2 border-l-2 border-b-[3px] border-r-[3px] border-gray-700 active:border-t-[3px] active:border-l-[3px] active:border-b-2 active:border-r-2;
+    }
+
+    input,
+    textarea {
+        @apply border-1 border-gray-500
+    }
+}
+
+/*
+* ============================
+* Features
+*=============================
+*/
+
+[x-cloak] {
+    display: none !important;
+}
+
+.text-shadow-dark {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 9px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.9);
+}
+
+.text-shadow-light {
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 9px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(255, 255, 255, 0.9);
+}
+
+.bb {
+    @apply border border-black
+}
