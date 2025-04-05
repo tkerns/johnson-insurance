@@ -3,10 +3,10 @@
         <div class="flex flex-col md:flex-row justify-between">
             <div class="mt-6">
                 <img src="/images/logo.png" alt="Johnson Insurance Group" width="470px" height="auto">
-                <div class="flex flex-col md:flex-row gap-4">
-                    <img src="" alt="">
-                    <img src="" alt="">
-                    <img src="" alt="">
+                <div class="flex flex-col md:flex-row justify-between gap-8 mt-12">
+                    <img src="/images/coe-badge-2024.png" alt="" width="100px" height="auto">
+                    <img src="/images/badge-2.png" alt="" width="100px" height="auto">
+                    <img src="/images/badge-3.png" alt="" width="100px" height="auto">
                 </div>
             </div>
             <div>
