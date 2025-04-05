@@ -45,7 +45,7 @@
     }
 
     p {
-        @apply my-4;
+        @apply mb-8;
     }
 
     .btn {
@@ -64,6 +64,16 @@
 *=============================
 */
 
+.extended-link::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
 [x-cloak] {
     display: none !important;
 }
@@ -79,3 +89,12 @@
 .bb {
     @apply border border-black
 }
+
+.cutout {
+    display: none;
+  }
+
+  .holder:hover > .cutout {
+    display: block;
+    color: white;
+  }

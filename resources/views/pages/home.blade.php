@@ -23,11 +23,11 @@
             }).mount()
         },
     }">
-        <section x-ref="splide" class="splide border-b-8 border-[#003768]">
+        <section x-ref="splide" class="splide">
             <div class="splide__track">
                 <div class="splide__list">
                     <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[300px] md:h-[700px] border-b-8 border-[#003768] grid grid-cols-1 grid-rows-1">
+                        class="splide__slide bg-no-repeat bg-cover bg-center h-[300px] md:h-[700px] grid grid-cols-1 grid-rows-1">
                         <div class="bg-no-repeat bg-cover bg-center h-[725px]"
                             style="background-image: url('/images/slideshow-placeholder-1.jpg')">
                             <div class="content-box mr-auto h-full flex justify-start items-center">
@@ -37,7 +37,7 @@
                     </div>
 
                     <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[300px] md:h-[700px] border-b-8 border-[#003768] grid grid-cols-1 grid-rows-1">
+                        class="splide__slide bg-no-repeat bg-cover bg-center h-[300px] md:h-[700px] grid grid-cols-1 grid-rows-1">
                         <div class="bg-no-repeat bg-cover bg-center h-[725px]"
                             style="background-image: url('/images/slideshow-placeholder-2.jpg')">
                             <div class="content-box ml-auto h-full flex justify-end items-center">
@@ -57,54 +57,41 @@
                 <hr class="mx-auto border-2 border-black w-12 mt-6">
             </div>
             <div class="text-white flex gap-[2px]">
-                <div class="w-1/4 grid grid-cols-1 grid-rows-1">
-                    <img src="/images/primary-placeholder-1.jpg" alt=""
-                        class="w-full h-full col-start-1 row-start-1">
-                    <div class="col-start-1 row-start-1 mt-auto flex justify-between m-4">
-                        <h3>Oil And Gas</h3>
-                        <a href="" class="block underline">View Details</a>
-                    </div>
+                <div class="holder relative w-1/4 h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    <h3 class="cutout text-shadow-dark mb-0">Construction</h3>
+                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
-                <div class="w-1/4 grid grid-cols-1 grid-rows-1">
-                    <img src="/images/primary-placeholder-1.jpg" alt=""
-                        class="w-full h-full col-start-1 row-start-1">
-                    <div class="col-start-1 row-start-1 mt-auto flex justify-between m-4">
-                        <h3>Oil And Gas</h3>
-                        <a href="" class="block underline">View Details</a>
-                    </div>
+                <div class="holder relative w-1/4 h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    <h3 class="cutout text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
+                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
-                <div class="w-1/4 grid grid-cols-1 grid-rows-1">
-                    <img src="/images/primary-placeholder-1.jpg" alt=""
-                        class="w-full h-full col-start-1 row-start-1">
-                    <div class="col-start-1 row-start-1 mt-auto flex justify-between m-4">
-                        <h3>Oil And Gas</h3>
-                        <a href="" class="block underline">View Details</a>
-                    </div>
+                <div class="holder relative w-1/4 h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    <h3 class="cutout text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
+                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
-                <div class="w-1/4 grid grid-cols-1 grid-rows-1">
-                    <img src="/images/primary-placeholder-1.jpg" alt=""
-                        class="w-full h-full col-start-1 row-start-1">
-                    <div class="col-start-1 row-start-1 mt-auto flex justify-between m-4">
-                        <h3>Oil And Gas</h3>
-                        <a href="" class="block underline">View Details</a>
-                    </div>
+                <div class="holder relative w-1/4 h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    <h3 class="cutout text-shadow-dark mb-0">Oil And Gas</h3>
+                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
             </div>
         </section>
-        <section class="my-4 content-box flex justify-evenly gap-12 px-14">
+        <section class="my-4 content-box flex justify-evenly gap-8 px-14 py-8">
             <div class="w-1/2">
                 <img src="/images/about-placeholder.png" alt="">
             </div>
             <div class="w-1/2 px-8 py-8">
                 <h2 class="text-5xl">ABOUT US</h2>
                 <div class="mt-12">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, pariatur saepe velit inventore quam
-                        perspiciatis odio, praesentium amet commodi vero quo ipsa tempora quaerat dolorum quos alias, minima
-                        excepturi ad.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate omnis pariatur est commodi, unde
-                        quidem soluta nisi a, laboriosam repellendus atque consequatur dicta ipsa adipisci temporibus
-                        maiores
-                        ullam. Praesentium, officia!</p>
+                    <p>Johnson Insurance Group was founded by husband and wife Blaine & Annie Johnson. We are lifelong and
+                        diehard Alaskans, and we formed our agency with a goal of providing the best insurance service and
+                        products to the businesses and individuals that make our state a cut above the rest. </p>
+                    <p>We strive to be the best. Growing up in hard-working family owned and operated businesses has
+                        instilled in us an entrepreneurial spirit and a desire to build a business based on honesty, hard
+                        work, and doing right by our clients, every time.</p>
                 </div>
                 <div class="flex gap-8 mt-12 text-xl">
                     <a href="" class="btn bg-brand-lime text-white">Get Started</a>
@@ -112,7 +99,7 @@
                 </div>
             </div>
         </section>
-        <section class="py-12 my-8 bg-no-repeat bg-cover bg-center h-[725px] bg-blend-multiply bg-black/50 text-white"
+        <section class="py-10 my-8 bg-no-repeat bg-cover bg-center h-[725px] bg-blend-multiply bg-black/50 text-white"
             style="background-image: url('/images/business-placeholder-1.jpg')">
             <div class="mb-12">
                 <h2 class="text-center">BUSINESS INSURANCE</h2>
@@ -332,7 +319,10 @@
                 <hr class="mx-auto border-2 border-brand-lime w-10 mt-6">
             </div>
             <div class="grid grid-cols-4 grid-rows-1 gap-4">
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -344,9 +334,12 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">Homeowner's Insurance</a>
                 </div>
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -358,9 +351,12 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">Personal Auto</a>
                 </div>
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -372,9 +368,12 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
                 </div>
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -386,11 +385,14 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">Snow Machine</a>
                 </div>
             </div>
             <div class="grid grid-cols-3 grid-rows-1 gap-4 mt-4">
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -402,9 +404,12 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">RV</a>
                 </div>
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -416,9 +421,12 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">ATV</a>
                 </div>
-                <div class="bg-gray-100 p-8 flex flex-col items-center justify-center">
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
                     <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                         <g fill="none" stroke="currentColor" stroke-width="1.5">
                             <path stroke-linecap="round"
@@ -430,7 +438,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <p class="text-center">Personal Auto</p>
+                    <a href="" class="mt-8 extended-link text-black hover:text-white">Personal Umbrella</a>
                 </div>
             </div>
         </section>

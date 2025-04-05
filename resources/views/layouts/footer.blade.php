@@ -34,7 +34,7 @@
                         </div>
                         <p>
                             <a href="tel:907-308-2302">
-                                <span class="font-bold">Phone:</span>
+                                Phone:
                                 <br>
                                 (907)-308-2302
                             </a>
@@ -49,7 +49,7 @@
                         </div>
                         <p>
                             <a href="mailto:annie@johnsoninsuranceak.com">
-                                <span class="font-bold">Email:</span>
+                                Email:
                                 <br>
                                 annie@johnsoninsuranceak.com
                             </a>
@@ -61,32 +61,32 @@
                 <h4 class="mb-10">Quick Links</h4>
                 <ul class="flex flex-col gap-2 text-xl">
                     <li>
-                        <a href="/">
+                        <a class="hover:underline hover:text-brand-lime" href="/">
                             Home
                         </a>
                     </li>
                     <li>
-                        <a href="/about">
+                        <a class="hover:underline hover:text-brand-lime" href="/about">
                             About Us
                         </a>
                     </li>
                     <li>
-                        <a href="/contact">
+                        <a class="hover:underline hover:text-brand-lime" href="/contact">
                             Contact Us
                         </a>
                     </li>
                     <li>
-                        <a href="/business">
+                        <a class="hover:underline hover:text-brand-lime" href="/business">
                             Business Insurance
                         </a>
                     </li>
                     <li>
-                        <a href="/personal">
+                        <a class="hover:underline hover:text-brand-lime" href="/personal">
                             Personal Insurance
                         </a>
                     </li>
                     <li>
-                        <a href="/customer-service">
+                        <a class="hover:underline hover:text-brand-lime" href="/customer-service">
                             Customer Service
                         </a>
                     </li>
@@ -94,7 +94,7 @@
             </div>
         </div>
         <div class="text-center mt-12 text-xl">
-            ©Copyrights 2023 Johnson Insurance | All Rights Reserved.
+            ©Copyrights 2023 Johnson Insurance&#xa0;&#xa0;|&#xa0;&#xa0;All Rights Reserved.
         </div>
     </div>
 </footer>
