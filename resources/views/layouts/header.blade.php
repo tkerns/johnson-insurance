@@ -5,33 +5,33 @@
         </div>
         <nav>
             <div class="flex justify-end gap-3 mb-4">
-                <a class="block px-5 py-2 border-2 border-brand-lime" href="">Contact Us</a>
-                <a class="block px-5 py-2 border-2 border-brand-lime" href="">Pay My Bill</a>
+                <a class="block px-5 py-2 border-2 border-brand-lime hover:bg-black focus:bg-black hover:text-white focus:text-white" href="/contact">Contact Us</a>
+                <a class="block px-5 py-2 border-2 border-brand-lime hover:bg-black focus:bg-black hover:text-white focus:text-white" href="https://johnsoninsuranceak.epaypolicy.com/">Pay My Bill</a>
             </div>
             <ul class="flex justify-between w-full gap-8 text-xl font-semibold">
                 <li class="hover:underline hover:text-brand-lime">
-                    <a href="">Home</a>
+                    <a href="/">Home</a>
                 </li>
                 <li class="hover:underline hover:text-brand-lime">
-                    <a href="" class="flex items-center gap-2">
+                    <button class="flex items-center gap-2 cursor-pointer">
                         Business Insurance
                         <svg class="mt-1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
                             <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                                 stroke-width="4" d="M36 18L24 30L12 18" />
                         </svg>
-                    </a>
+                    </button>
                 </li>
                 <li class="hover:underline hover:text-brand-lime">
-                    <a href="" class="flex items-center gap-2">
+                    <button class="flex items-center gap-2 cursor-pointer">
                         Personal Insurance
                         <svg class="mt-1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
                             <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                                 stroke-width="4" d="M36 18L24 30L12 18" />
                         </svg>
-                    </a>
+                    </button>
                 </li>
                 <li class="hover:underline hover:text-brand-lime">
-                    <a href="">Customer Service</a>
+                    <a href="/customer-service">Customer Service</a>
                 </li>
             </ul>
         </nav>

@@ -60,12 +60,36 @@
             <div>
                 <h4 class="mb-10">Quick Links</h4>
                 <ul class="flex flex-col gap-2 text-xl">
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Contact Us</li>
-                    <li>Business Insurance</li>
-                    <li>Personal Insurance</li>
-                    <li>Customer Service</li>
+                    <li>
+                        <a href="/">
+                            Home
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/about">
+                            About Us
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/contact">
+                            Contact Us
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/business">
+                            Business Insurance
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/personal">
+                            Personal Insurance
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/customer-service">
+                            Customer Service
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
