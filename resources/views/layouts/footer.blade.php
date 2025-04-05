@@ -1,4 +1,4 @@
-<footer>
+<footer class="pt-4">
     <div class="content-box">
         <div class="flex flex-col md:flex-row justify-between">
             <div class="mt-6">

@@ -21,7 +21,11 @@
 @layer components {
 
     .content-box{
-        @apply max-w-7xl mx-auto px-8 py-6
+        @apply max-w-7xl mx-auto px-8 py-5
+    }
+
+    body{
+        @apply text-lg;
     }
 
     h1 {
@@ -29,7 +33,7 @@
     }
 
     h2 {
-        @apply text-2xl font-bold mb-2
+        @apply text-4xl font-bold mb-2
     }
 
     h3 {
@@ -44,8 +48,8 @@
         @apply my-4;
     }
 
-    button {
-        @apply px-3 py-2 border-t-2 border-l-2 border-b-[3px] border-r-[3px] border-gray-700 active:border-t-[3px] active:border-l-[3px] active:border-b-2 active:border-r-2;
+    .btn {
+        @apply block px-6 py-3 rounded-md font-bold;
     }
 
     input,
