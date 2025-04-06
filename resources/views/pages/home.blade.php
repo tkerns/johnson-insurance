@@ -94,21 +94,21 @@
                         work, and doing right by our clients, every time.</p>
                 </div>
                 <div class="flex gap-8 mt-12 text-xl">
-                    <a href="" class="btn bg-brand-lime text-white">Get Started</a>
-                    <a href="" class="btn bg-black text-white">Read More</a>
+                    <a href="/contact" class="btn bg-brand-lime text-white">Get Started</a>
+                    <a href="/about" class="btn bg-black text-white">Read More</a>
                 </div>
             </div>
         </section>
-        <section class="py-10 my-8 bg-no-repeat bg-cover bg-center bg-blend-multiply bg-black/50 text-white"
+        <section class="py-12 my-8 bg-no-repeat bg-cover bg-center bg-blend-multiply bg-black/50 text-white"
             style="background-image: url('/images/business-placeholder-1.jpg')">
-            <div class="mb-12">
+            <div class="mb-4">
                 <h2 class="text-center">BUSINESS INSURANCE</h2>
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
             </div>
             <div class="content-box flex">
-                <div class="w-1/4 px-12 border-r border-white flex flex-col gap-y-12 justify-center">
+                <div class="w-1/4 py-8 border-r border-white flex flex-col gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -124,7 +124,7 @@
                         <a href="/business/workers-comp" class="extended-link text-center">Workers' Compensation</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -140,7 +140,7 @@
                         <a href="/business/equipment" class="extended-link text-center">Equipment Insurance</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -157,9 +157,9 @@
                     </div>
                 </div>
 
-                <div class="w-1/4 px-12 border-r border-white flex flex-col gap-y-12 justify-center">
+                <div class="w-1/4 py-8 border-r border-white flex flex-col gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -175,7 +175,7 @@
                         <a href="/business/general-liability" class="extended-link text-center">General Liability</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -191,7 +191,7 @@
                         <a href="/business/ocean-marine" class="extended-link text-center">Ocean Marine</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -208,9 +208,9 @@
                     </div>
                 </div>
 
-                <div class="w-1/4 px-12 border-r border-white flex flex-col gap-y-12 justify-center">
+                <div class="w-1/4 py-8 border-r border-white flex flex-col gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -226,7 +226,7 @@
                         <a href="/business/commercial-property" class="extended-link text-center">Commercial Property</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -242,7 +242,7 @@
                         <a href="/business/aviation" class="extended-link text-center">Aviation</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -259,9 +259,9 @@
                     </div>
                 </div>
 
-                <div class="w-1/4 px-12 border-r border-white flex flex-col gap-y-12 justify-center">
+                <div class="w-1/4 py-8 flex flex-col gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -277,7 +277,7 @@
                         <a href="/business/auto-trucking" class="extended-link text-center">Commercial Auto & Trucking</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
@@ -293,7 +293,7 @@
                         <a href="/business/umbrella" class="extended-link text-center">Commercial Umbrella</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto">
+                        <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
                                 <g fill="none" stroke="currentColor" stroke-width="1.5">
                                     <path stroke-linecap="round"
