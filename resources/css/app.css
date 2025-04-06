@@ -24,6 +24,10 @@
         @apply max-w-7xl mx-auto px-8 py-5
     }
 
+    button{
+        @apply cursor-pointer
+    }
+
     body{
         @apply text-lg;
     }
