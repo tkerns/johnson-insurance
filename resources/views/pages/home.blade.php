@@ -29,7 +29,7 @@
                     <div
                         class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[700px] grid grid-cols-1 grid-rows-1">
                         <div class="bg-no-repeat bg-cover bg-center md:h-[725px]"
-                            style="background-image: url('/images/slideshow-placeholder-1.jpg')">
+                            style="background-image: url('/images/header-1.jpg')">
                             <div class="content-box mr-auto h-full flex justify-center lg:justify-start items-center">
                                 <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS OFF</p>
                             </div>
@@ -58,22 +58,22 @@
             </div>
             <div class="text-white flex flex-col lg:flex-row gap-[2px]">
                 <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    style="background-image: url('/images/welding.jpg')">
                     <h3 class="cutout text-shadow-dark mb-0">Construction</h3>
                     <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
                 <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    style="background-image: url('/images/taps.jpg')">
                     <h3 class="cutout text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
                     <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
                 <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    style="background-image: url('/images/plane.jpg')">
                     <h3 class="cutout text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
                     <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
                 <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/primary-placeholder-1.jpg')">
+                    style="background-image: url('/images/driver.jpg')">
                     <h3 class="cutout text-shadow-dark mb-0">Oil And Gas</h3>
                     <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
                 </div>
@@ -100,7 +100,7 @@
             </div>
         </section>
         <section class="py-12 my-8 bg-no-repeat bg-cover bg-center bg-blend-multiply bg-black/50 text-white"
-            style="background-image: url('/images/business-placeholder-1.jpg')">
+            style="background-image: url('/images/business-bg.jpg')">
             <div class="mb-4">
                 <h2 class="text-center">BUSINESS INSURANCE</h2>
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
