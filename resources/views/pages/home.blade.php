@@ -443,7 +443,10 @@
             </div>
         </section>
         <section>
-            <img class="w-full h-full" src="/images/map-placeholder.jpg" alt="">
+            <a target="_blank" href="https://www.google.com/maps/dir//Johnson+Insurance+Group+35440+Kenai+Spur+Hwy+Soldotna,+AK+99669/@60.4935451,-151.0666124,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x56c66166ba70ee8b:0xe8f106a88588d0f5">
+                <img class="w-full h-full" src="/images/map-placeholder.jpg" alt="">
+                <span class="sr-only">Click here for Google Maps directions to our office</span>
+            </a>
         </section>
     </main>
 @endsection
