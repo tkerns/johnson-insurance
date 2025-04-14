@@ -10,7 +10,7 @@
     </div>
     <main class="mt-10 content-box grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-1.jpg" alt="">
             <div class="p-8">
                 <h2>Homeowner's Insurance</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -19,7 +19,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-2.jpg" alt="">
             <div class="p-8">
                 <h2>Personal Auto</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -28,7 +28,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-3.jpg" alt="">
             <div class="p-8">
                 <h2>Watercraft</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -37,7 +37,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-4.jpg" alt="">
             <div class="p-8">
                 <h2>Snowmachine</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -46,7 +46,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-5.jpg" alt="">
             <div class="p-8">
                 <h2>RV</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -55,7 +55,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-6.jpg" alt="">
             <div class="p-8">
                 <h2>ATV</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
@@ -64,7 +64,7 @@
             </div>
         </section>
         <section class="flex flex-col border-2 border-black">
-            <img class="w-full h-full" src="/images/business-1.jpg" alt="">
+            <img class="w-full h-full" src="/images/personal-7.jpg" alt="">
             <div class="p-8">
                 <h2>Personal Umbrella</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti libero rem nemo pariatur labore nisi
