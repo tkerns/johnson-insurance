@@ -27,8 +27,8 @@
             <div class="splide__track">
                 <div class="splide__list">
                     <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[700px] grid grid-cols-1 grid-rows-1">
-                        <div class="bg-no-repeat bg-cover bg-center md:h-[725px]"
+                        class="splide__slide grid grid-cols-1 grid-rows-1">
+                        <div class="bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
                             style="background-image: url('/images/header-1.jpg')">
                             <div class="content-box mr-auto h-full flex justify-center lg:justify-start items-center">
                                 <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS OFF</p>
@@ -37,8 +37,8 @@
                     </div>
 
                     <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[700px] grid grid-cols-1 grid-rows-1">
-                        <div class="bg-no-repeat bg-cover bg-center md:h-[725px]"
+                        class="splide__slide grid grid-cols-1 grid-rows-1">
+                        <div class="bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
                             style="background-image: url('/images/slideshow-placeholder-2.jpg')">
                             <div class="content-box ml-auto h-full flex justify-center lg:justify-end items-center">
                                 <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">SMART INSURANCE SOLUTIONS FOR YOUR DAYS ON
