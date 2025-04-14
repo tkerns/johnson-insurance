@@ -27,23 +27,19 @@
             <div class="splide__track">
                 <div class="splide__list">
                     <div
-                        class="splide__slide grid grid-cols-1 grid-rows-1">
-                        <div class="bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
-                            style="background-image: url('/images/header-1.jpg')">
+                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
+                        style="background-image: url('/images/header-1.jpg')">
                             <div class="content-box mr-auto h-full flex justify-center lg:justify-start items-center">
                                 <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS OFF</p>
                             </div>
-                        </div>
                     </div>
 
                     <div
-                        class="splide__slide grid grid-cols-1 grid-rows-1">
-                        <div class="bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
-                            style="background-image: url('/images/slideshow-placeholder-2.jpg')">
-                            <div class="content-box ml-auto h-full flex justify-center lg:justify-end items-center">
-                                <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">SMART INSURANCE SOLUTIONS FOR YOUR DAYS ON
-                                </p>
-                            </div>
+                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
+                        style="background-image: url('/images/header-1.jpg')">
+                        <div class="content-box ml-auto h-full flex justify-center lg:justify-end items-center">
+                            <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">SMART INSURANCE SOLUTIONS FOR YOUR DAYS ON
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -53,7 +49,7 @@
     <main>
         <section>
             <div class="mt-14 mb-12">
-                <h2 class="text-center">PRIMARY INDUSTRIES</h2>
+                <h2 class="text-4xl text-center">PRIMARY INDUSTRIES</h2>
                 <hr class="mx-auto border-2 border-black w-12 mt-6">
             </div>
             <div class="text-white flex flex-col lg:flex-row gap-[2px]">
@@ -102,7 +98,7 @@
         <section class="py-12 my-8 bg-no-repeat bg-cover bg-center bg-blend-multiply bg-black/50 text-white"
             style="background-image: url('/images/business-bg.jpg')">
             <div class="mb-4">
-                <h2 class="text-center">BUSINESS INSURANCE</h2>
+                <h2 class="text-4xl text-center">BUSINESS INSURANCE</h2>
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
             </div>
             <div class="content-box flex flex-col md:flex-row flex-wrap">
@@ -315,7 +311,7 @@
 
         <section class="my-8 content-box">
             <div class="mt-4 mb-12">
-                <h2 class="text-center">PERSONAL INSURANCE</h2>
+                <h2 class="text-4xl text-center">PERSONAL INSURANCE</h2>
                 <hr class="mx-auto border-2 border-brand-lime w-10 mt-6">
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-4 grid-rows-1 gap-4">
