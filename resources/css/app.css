@@ -20,15 +20,15 @@
 
 @layer components {
 
-    .content-box{
+    .content-box {
         @apply max-w-7xl mx-auto px-8 py-5
     }
 
-    button{
+    button {
         @apply cursor-pointer
     }
 
-    body{
+    body {
         @apply text-lg;
     }
 
@@ -44,7 +44,7 @@
         @apply text-xl font-bold mb-2
     }
 
-    h4{
+    h4 {
         @apply text-3xl font-semibold mb-2
     }
 
@@ -68,37 +68,45 @@
 *=============================
 */
 
-.extended-link::after {
-    position: absolute;
-    top: 0;
-    left: 0;
-    content: '';
-    display: block;
-    width: 100%;
-    height: 100%;
-}
+    .extended-link::after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
 
-[x-cloak] {
-    display: none !important;
-}
+    [x-cloak] {
+        display: none !important;
+    }
 
-.text-shadow-dark {
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 9px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.9);
-}
+    .text-shadow-dark {
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 9px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.9);
+    }
 
-.text-shadow-light {
-    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 9px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(255, 255, 255, 0.9);
-}
+    .text-shadow-light {
+        text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 9px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(255, 255, 255, 0.9);
+    }
 
-.bb {
-    @apply border border-black
-}
+    .bb {
+        @apply border border-black
+    }
 
-.cutout {
-    display: none;
-  }
+    .cutout {
+        display: none;
+    }
 
-  .holder:hover > .cutout {
-    display: block;
-    color: white;
-  }
+    .industry {
+        @media (min-width: 992px) {
+            display: none;
+        }
+    }
+
+    .holder:hover>.cutout,
+    .holder:hover>.industry {
+        display: flex;
+        color: white;
+    }
+

@@ -52,26 +52,26 @@
                 <h2 class="text-4xl text-center">PRIMARY INDUSTRIES</h2>
                 <hr class="mx-auto border-2 border-black w-12 mt-6">
             </div>
-            <div class="text-white flex flex-col lg:flex-row gap-[2px]">
-                <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+            <div class="text-white flex flex-col md:flex-row gap-[2px]">
+                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/welding.jpg')">
-                    <h3 class="cutout text-shadow-dark mb-0">Construction</h3>
-                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
+                    <h3 class="industry text-shadow-dark mb-0">Construction</h3>
+                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
                 </div>
-                <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/taps.jpg')">
-                    <h3 class="cutout text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
-                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
+                    <h3 class="industry text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
+                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
                 </div>
-                <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/plane.jpg')">
-                    <h3 class="cutout text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
-                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
+                    <h3 class="industry text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
+                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
                 </div>
-                <div class="holder relative lg:w-1/4 h-[250px] lg:h-[500px] flex items-end justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
+                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/driver.jpg')">
-                    <h3 class="cutout text-shadow-dark mb-0">Oil And Gas</h3>
-                    <a href="" class="cutout text-shadow-dark extended-link block underline">View Details</a>
+                    <h3 class="industry text-shadow-dark mb-0">Oil And Gas</h3>
+                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
                 </div>
             </div>
         </section>
