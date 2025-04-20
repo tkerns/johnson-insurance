@@ -8,7 +8,7 @@ class PagesController extends Controller
 {
     public function home(){
 
-        $title= '';
+        $title= 'Home | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.home', compact('title', 'metaDesc'));
@@ -16,7 +16,7 @@ class PagesController extends Controller
 
     public function about(){
 
-        $title= '';
+        $title= 'About | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.about', compact('title', 'metaDesc'));
@@ -24,7 +24,7 @@ class PagesController extends Controller
 
     public function contact(){
 
-        $title= '';
+        $title= 'Contact | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.contact', compact('title', 'metaDesc'));
@@ -32,7 +32,7 @@ class PagesController extends Controller
 
     public function service(){
 
-        $title= '';
+        $title= 'Customer Service | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.customer-service', compact('title', 'metaDesc'));
@@ -40,7 +40,7 @@ class PagesController extends Controller
 
     public function news(){
 
-        $title= '';
+        $title= 'News | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.news', compact('title', 'metaDesc'));
@@ -50,7 +50,7 @@ class PagesController extends Controller
 
     public function business(){
 
-        $title= '';
+        $title= 'Business Insurance | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.business-insurance.index', compact('title', 'metaDesc'));
@@ -156,7 +156,7 @@ class PagesController extends Controller
 
     public function personal(){
 
-        $title= '';
+        $title= 'Personal Insurance | Johnson Insurance Group';
         $metaDesc= '';
 
         return view('pages.personal-insurance.index', compact('title', 'metaDesc'));
