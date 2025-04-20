@@ -38,6 +38,14 @@ class PagesController extends Controller
         return view('pages.customer-service', compact('title', 'metaDesc'));
     }
 
+    public function news(){
+
+        $title= '';
+        $metaDesc= '';
+
+        return view('pages.news', compact('title', 'metaDesc'));
+    }
+
     // Business Insurance
 
     public function business(){

@@ -96,6 +96,7 @@
                 <div class="flex flex-col md:flex-row gap-8 mt-12 text-xl">
                     <a href="/contact" class="btn bg-brand-lime text-white">Get Started</a>
                     <a href="/about" class="btn bg-black text-white">Read More</a>
+                    <a href="/news" class="btn bg-brand-lime text-white">News</a>
                 </div>
             </div>
         </section>
