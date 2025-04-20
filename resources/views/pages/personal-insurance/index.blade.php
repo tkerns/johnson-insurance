@@ -38,7 +38,7 @@
                             See More
                         </button>
                         <div x-cloak x-collapse x-show="open">
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li>
                                     <span class="font-bold">Protection for Your Belongings:</span> From furniture to
                                     electronics,
@@ -67,8 +67,8 @@
                                     Insurance</span> policies
                                 tailored to your unique needs, so
                                 you can rest assured that you’re fully covered in this unpredictable environment. <a
-                                    href="/contact">Contact us today</a> to
-                                find the right policy for your home and family!
+                                    class="hover:underline focus:underline" href="/contact">Contact us today</a> to
+                                    find the right policy for your home and family!
                             </p>
                             <button x-on:click="open = false" type="button" class="underline">
                                 See Less
@@ -89,7 +89,7 @@
                             See More
                         </button>
                         <div x-cloak x-collapse x-show="open">
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Protection from Lawsuits:</span> If you’re involved in an auto
                                     accident,
                                     your personal auto insurance can help cover legal fees and damages, protecting you from
@@ -112,7 +112,7 @@
                                 secure
                                 the best <span class="font-bold">Personal Auto Insurance</span>
                                 coverage. We do this by: </p>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Marketing Your Coverage:</span> We work with multiple reputable
                                     insurance carriers to ensure you receive the best options and competitive rates for your
                                     auto
@@ -130,7 +130,7 @@
                             <p>At <span class="font-bold">Johnson Insurance Group</span>, we're here to make sure you have
                                 the right
                                 protection with a personal
-                                touch. <a href="/contact">Contact us today</a> to find the auto insurance policy that
+                                touch. <a class="hover:underline focus:underline" href="/contact">Contact us today</a> to find the auto insurance policy that
                                 provides the
                                 right balance of
                                 protection and value, tailored to your driving needs in Alaska's unique conditions!</p>
@@ -164,7 +164,7 @@
                                     Insurance</span> is essential to protect your investment. <span
                                     class="font-bold">Johnson
                                     Insurance Group</span> offers:</p>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Boat Insurance:</span> Covers damage to your boat, personal
                                     watercraft,
                                     or yacht caused by accidents, storms, or vandalism.</li>
@@ -181,7 +181,7 @@
                                 to
                                 protecting your marine investments. Here’s how we can help:
                             </p>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Tailored Coverage:</span> We assess your unique needs, whether
                                     you’re an
                                     occasional traveler or an avid boater, and provide custom coverage options that fit your
@@ -201,8 +201,9 @@
                             <p>
                                 Protect your watercraft with the right insurance coverage from <span
                                     class="font-bold">Johnson
-                                    Insurance Group</span>. <a href="/contact">Contact us today</a> to learn how we can help
-                                safeguard your adventures on the road and the water.
+                                    Insurance Group</span>. <a class="hover:underline focus:underline"
+                                    href="/contact">Contact us today to learn how we can help
+                                    safeguard your adventures on the road and the water.</a>
                             </p>
                             <button x-on:click="open = false" type="button" class="underline">
                                 See Less
@@ -245,7 +246,7 @@
                                 risks. <span class="font-bold">RV Insurance</span> from <span class="font-bold">Johnson
                                     Insurance
                                     Group</span> offers:</p>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Comprehensive Coverage:</span> Protects your RV from damages
                                     caused by
                                     accidents, fire, theft, or vandalism.</li>
@@ -270,7 +271,7 @@
                                 to
                                 protecting your RV investments. Here’s how we can help:
                             </p>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li><span class="font-bold">Tailored Coverage:</span> We assess your unique needs, whether
                                     you’re
                                     an occasional RV traveler or an avid adventurer, and provide custom coverage options
@@ -290,7 +291,7 @@
                             </ul>
                             <p>
                                 Protect your recreational vehicle with the right insurance coverage from <span
-                                    class="font-bold">Johnson Insurance Group</span>. <a href="/contact">Contact us
+                                    class="font-bold">Johnson Insurance Group</span>. <a class="hover:underline focus:underline" href="/contact">Contact us
                                     today</a> to
                                 learn how we can help safeguard your adventures on the road and the water.
                             </p>
@@ -330,7 +331,7 @@
                         </button>
                         <div x-cloak x-collapse x-show="open">
                             <h3>Key Benefits of Personal Umbrella Insurance:</h3>
-                            <ul class="list-disc pl-4">
+                            <ul class="list-disc pl-4 mb-3">
                                 <li>Extended Coverage Beyond Limits: If your home, auto, or boat insurance policy’s limits
                                     are
                                     exceeded by a claim, your personal umbrella policy steps in, offering additional
@@ -366,7 +367,7 @@
                                 in the
                                 family, or potential liability risks, we’ll provide coverage that suits your needs.</p>
                             <p>
-                                <a href="/contact">Contact us today</a> to learn more about how <span
+                                <a class="hover:underline focus:underline" href="/contact">Contact us today</a> to learn more about how <span
                                     class="font-bold">Personal
                                     Umbrella Insurance</span>
                                 can provide you with added

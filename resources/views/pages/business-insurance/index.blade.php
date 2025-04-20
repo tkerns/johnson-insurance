@@ -32,7 +32,7 @@
                             premiums and enhance your company’s safety record.
                         </p>
                         <h3>What We Offer:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3 mb-3">
                             <li><span class="font-bold">Safety Record Improvement:</span> Our expert guidance helps you
                                 identify and address workplace hazards, reducing the frequency and severity of claims.</li>
                             <li><span class="font-bold">Aggressive Marketing:</span> We use our extensive network to
@@ -46,10 +46,10 @@
                             Don’t let your business remain stuck with high Workers’ Compensation premiums. Let us help you
                             get your safety record on track and guide you towards more affordable options.
                         </p>
-                        <p class="font-bold">
+                        <a href="/contact" class="font-bold hover:underline focus:underline">
                             Contact us today to discuss how we can help reduce your premiums and improve your bottom line!
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -60,8 +60,8 @@
             <img class="w-full" src="/images/business-2.jpg" alt="">
             <div class="p-8 border-b-2 border-l-2 border-r-2 border-black h-full">
                 <h2>General Liability</h2>
-                <h3>Protect Your Business with a Competitively Priced Commercial General Liability Policy
-                </h3>
+                {{-- <h3>Protect Your Business with a Competitively Priced Commercial General Liability Policy
+                </h3> --}}
                 <p>In today’s competitive business landscape, having the right Commercial General Liability (CGL) coverage
                     is essential — but it also needs to be affordable. A competitively priced policy is not only crucial for
                     maintaining comprehensive protection, but it also helps you stay ahead of your competitors by
@@ -74,7 +74,7 @@
                         <h3>
                             Why Choose a Competitively Priced CGL Policy?
                         </h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Stay Within Budget:</span> A well-priced policy helps you balance
                                 the need
                                 for robust coverage with the financial realities of running your business.</li>
@@ -95,7 +95,7 @@
                             quality.
                             We work with you to:
                         </p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Tailored Protection:</span> With the right endorsements and policy
                                 adjustments, you can broaden your coverage to ensure it matches the specific needs of your
                                 business,
@@ -114,10 +114,10 @@
                             Don’t settle for high premiums that eat into your profits! Let us help you get the best possible
                             Commercial General Liability policy at a price that supports your business’s bottom line.
                         </p>
-                        <p class="font-bold">
+                        <a href="/contact" class="font-bold hover:underline focus:underline">
                             Contact us today for a free review of your CGL coverage and pricing options!
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -128,7 +128,7 @@
             <img class="w-full" src="/images/business-3.jpg" alt="">
             <div class="p-8 border-b-2 border-l-2 border-r-2 border-black h-full">
                 <h2>Commercial Property</h2>
-                <h3>Protect Your Business with Comprehensive Commercial Property Insurance</h3>
+                {{-- <h3>Protect Your Business with Comprehensive Commercial Property Insurance</h3> --}}
                 <p>A Commercial Property Policy is a critical component of protecting your business assets, offering
                     coverage for damage to your building and contents from covered causes of loss, such as fire, windstorms,
                     theft, or vandalism. But did you know that your protection doesn’t have to stop there?</p>
@@ -144,7 +144,7 @@
                             wide
                             range of potential business disruptions.</p>
                         <h3>What You Can Add to Your Coverage:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li>Business Interruption: Protection against lost income due to events that cause a temporary
                                 halt in
                                 your business activities, ensuring you can continue paying bills and salaries even if your
@@ -156,7 +156,7 @@
                             </li>
                         </ul>
                         <h3>Why You Need a Commercial Property Policy:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Comprehensive Protection:</span> Your business is built on physical
                                 assets,
                                 and protecting them ensures you can recover quickly after a disaster.</li>
@@ -174,7 +174,7 @@
                             that align
                             with your specific business needs. We’ll work with you to:
                         </p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Assess Your Risk:</span> Understand your unique exposures and help
                                 you
                                 select the right coverage forms to protect your property and assets.</li>
@@ -190,10 +190,11 @@
                         <p class="font-bold">Don’t wait until disaster strikes! Make sure your property and business are
                             fully
                             protected with a comprehensive Commercial Property Policy.</p>
-                        <p class="font-bold">Contact us today for a policy review and learn how we can help safeguard your
+                        <a href="/contact" class="font-bold hover:underline focus:underline">Contact us today for a policy
+                            review and learn how we can help safeguard your
                             business.
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -204,7 +205,7 @@
             <img class="w-full" src="/images/business-4.jpg" alt="">
             <div class="p-8 border-b-2 border-l-2 border-r-2 border-black h-full">
                 <h2>Commercial Auto and Trucking</h2>
-                <h3>Protect Your Business with a Comprehensive Auto Insurance Policy</h3>
+                {{-- <h3>Protect Your Business with a Comprehensive Auto Insurance Policy</h3> --}}
                 <p>
                     Having a competitive commercial auto policy is essential for protecting your operations and employees.
                     Auto insurance isn’t just for vehicles on the road — it provides crucial liability protection for injury
@@ -217,7 +218,7 @@
                     </button>
                     <div x-cloak x-collapse x-show="open">
                         <h3>Why Your Business Needs Auto Coverage:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Liability Protection:</span> If your employees are driving personal
                                 vehicles
                                 for business purposes, your business could still be liable for damages if an accident
@@ -236,8 +237,9 @@
                                 repair costs.</li>
                         </ul>
                         <h3>A Competitive Auto Policy is Crucial for Your Business:</h3>
-                        <ul class="list-disc pl-4">
-                            <li><span class="font-bold">Comprehensive Protection:</span> Whether your business owns vehicles
+                        <ul class="list-disc pl-4 mb-3">
+                            <li><span class="font-bold">Comprehensive Protection:</span> Whether your business owns
+                                vehicles
                                 or
                                 employees use their personal cars for work, a competitive auto policy protects against a
                                 wide range
@@ -259,7 +261,7 @@
                             needs of
                             your business. We can help:
                         </p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Review Your Existing Coverage:</span> Ensure you’re fully protected
                                 in case
                                 of any vehicle-related accidents, whether employees use personal or company vehicles.</li>
@@ -273,9 +275,10 @@
                         <p class="font-bold">Don’t leave your business exposed! A comprehensive and competitively priced
                             auto policy
                             ensures you’re protected against unexpected vehicle-related risks.</p>
-                        <p class="font-bold">Contact us today for a free review of your business’s auto insurance needs!
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        <a href="/contact" class="font-bold hover:underline focus:underline">Contact us today for a free
+                            review of your business’s auto insurance needs!
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -313,21 +316,19 @@
             <img class="w-full" src="/images/business-8.jpg" alt="">
             <div class="p-8 border-b-2 border-l-2 border-r-2 border-black h-full">
                 <h2>Commercial Umbrella</h2>
-                <h3>Protect Your Business with Commercial Umbrella Insurance</h3>
+                {{-- <h3>Protect Your Business with Commercial Umbrella Insurance</h3> --}}
                 <p>Every business faces risks — some expected, others unforeseen. While your primary insurance policies
-                    offer valuable protection, they may not always be enough in the event of a serious claim. <span
-                        class="font-bold">
-                        Commercial
-                        Umbrella Insurance
-                    </span> provides an extra layer of coverage that kicks in when your existing policies (like
-                    General Liability, Auto, or Employers' Liability) have reached their limits.</p>
+                    offer valuable protection, they may not always be enough in the event of a serious claim. </p>
                 <div x-data="{ open: false }">
                     <button x-on:click="open = true" x-cloak x-show="!open" type="button" class="underline">
                         See More
                     </button>
                     <div x-cloak x-collapse x-show="open">
+                        <p><span class="font-bold">Commercial Umbrella Insurance</span> provides an extra layer of coverage
+                            that kicks in when your existing policies (like
+                            General Liability, Auto, or Employers' Liability) have reached their limits.</p>
                         <h3>Why Your Business Needs Commercial Umbrella Insurance:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Extended Coverage Limits:</span> Commercial Umbrella Insurance
                                 increases
                                 the coverage limits of your existing policies, giving you more financial protection in case
@@ -345,7 +346,7 @@
                                 significantly increasing your premiums.</li>
                         </ul>
                         <h3>Key Benefits of Commercial Umbrella Insurance:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Broader Protection:</span> Umbrella insurance extends coverage to
                                 multiple
                                 areas, including property damage, bodily injury, and even certain legal expenses not covered
@@ -365,7 +366,7 @@
                         <p>At Johnson Insurance Group, we understand that your business faces unique risks. That’s why we
                             offer
                             tailored <span class="font-bold">Commercial Umbrella Insurance</span> to help provide:</p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Comprehensive Coverage:</span> We’ll assess your business needs and
                                 recommend an umbrella policy that enhances your current coverage, protecting against
                                 unforeseen
@@ -379,12 +380,12 @@
                             added
                             protection you need with <span class="font-bold">Commercial Umbrella Insurance</span>.
                         </p>
-                        <p class="font-bold">
+                        <a href="/contact" class="font-bold hover:underline focus:underline">
                             Contact us today to learn how an umbrella policy can safeguard your business against unexpected
                             risks
                             and liabilities.
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -415,18 +416,20 @@
                 <h2>Employment Practices</h2>
                 <h3>Protect Your Business with Employment Practices Liability Insurance (EPLI)</h3>
                 <p>In today’s litigious environment, it’s essential to have the right protections in place to defend your
-                    business from employee-related lawsuits. <span class="font-bold">General Liability Insurance</span>
-                    doesn’t cover issues like
-                    discrimination, wrongful termination, or harassment, but <span class="font-bold">Employment Practices
-                        Liability Insurance (EPLI)</span>
-                    is designed specifically to protect your business from these employment-related risks.</p>
+                    business from employee-related lawsuits.</p>
                 <div x-data="{ open: false }">
                     <button x-on:click="open = true" x-cloak x-show="!open" type="button" class="underline">
                         See More
                     </button>
                     <div x-cloak x-collapse x-show="open">
+                        <p><span class="font-bold">General Liability Insurance</span>
+                            doesn’t cover issues like
+                            discrimination, wrongful termination, or harassment, but
+                            <span class="font-bold">Employment Practices Liability Insurance (EPLI)</span>
+                            is designed specifically to protect your business from these employment-related risks.
+                        </p>
                         <h3>Why Your Business Needs EPLI:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Coverage for Employment-Related Lawsuits:</span> EPLI protects your
                                 business from lawsuits and claims related to discrimination, wrongful termination, sexual
                                 harassment, retaliation, and other workplace issues.</li>
@@ -441,7 +444,7 @@
                                 that you can focus on business operations instead of legal battles.</li>
                         </ul>
                         <h3>Key Benefits of Employment Practices Liability Insurance:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Legal Defense Coverage:</span> EPLI helps cover legal fees,
                                 settlements,
                                 and judgments related to employment lawsuits, which can otherwise be costly and
@@ -461,7 +464,7 @@
                         <p>At Johnson Insurance Group, we understand the importance of having strong protections in place
                             for your
                             business. Our team can help you:</p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Review Your Existing Policies:</span> We’ll assess whether your
                                 current
                                 coverage adequately addresses employment-related risks.</li>
@@ -478,11 +481,11 @@
                                 vulnerable.</span> Protect your company, assets, and reputation with comprehensive <span
                                 class="font-bold">Employment Practices Liability Insurance</span>.
                         </p>
-                        <p class="font-bold">
+                        <a class="font-bold hover:underline focus:underline">
                             Contact us today to learn more about how EPLI can protect your business from employee-related
                             lawsuits.
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
@@ -496,20 +499,19 @@
                 <h3>Protect Your Business with Cyber Liability Insurance</h3>
                 <p>
                     In today’s digital age, cyber threats are more prevalent than ever. From data breaches and hacking
-                    attempts to ransomware attacks, businesses are increasingly vulnerable to cyber risks. <span
-                        class="font-bold">
-                        Cyber Liability
-                        Insurance
-                    </span> is essential for safeguarding your company against the financial consequences of a cyber
-                    attack and ensuring your business stays resilient in the face of ever-evolving digital threats.
+                    attempts to ransomware attacks, businesses are increasingly vulnerable to cyber risks.
                 </p>
                 <div x-data="{ open: false }">
                     <button x-on:click="open = true" x-cloak x-show="!open" type="button" class="underline">
                         See More
                     </button>
                     <div x-cloak x-collapse x-show="open">
+                        <p><span class="font-bold">Cyber Liability Insurance</span> is essential for safeguarding your
+                            company against the financial consequences of a cyber
+                            attack and ensuring your business stays resilient in the face of ever-evolving digital threats.
+                        </p>
                         <h3>Why Your Business Needs Cyber Liability Insurance:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Data Breach Coverage:</span> If your business experiences a data
                                 breach,
                                 Cyber Liability Insurance helps cover the costs of notification, credit monitoring, legal
@@ -532,7 +534,7 @@
                                 your business against third-party claims.</li>
                         </ul>
                         <h3>Key Benefits of Cyber Liability Insurance:</h3>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Financial Protection:</span> It covers the costs associated with
                                 cyber
                                 incidents, including legal fees, public relations efforts, customer notification, and
@@ -551,7 +553,7 @@
                         <p>At Johnson Insurance Group, we help businesses protect themselves from the growing risk of cyber
                             threats.
                             Our team can:</p>
-                        <ul class="list-disc pl-4">
+                        <ul class="list-disc pl-4 mb-3">
                             <li><span class="font-bold">Tailor a Cyber Liability Policy:</span> We offer customized Cyber
                                 Liability
                                 policies that address your specific digital risks and help protect your business assets.
@@ -567,12 +569,12 @@
                             from
                             the financial and reputational damage that can result from cyber threats.
                         </p>
-                        <p class="font-bold">
+                        <a href="/contact" class="font-bold hover:underline focus:underline">
                             Contact us today for a review of your current cyber coverage and to learn how Cyber Liability
                             Insurance
                             can safeguard your business from digital risks.
-                        </p>
-                        <button x-on:click="open = false" type="button" class="underline">
+                        </a>
+                        <button x-on:click="open = false" type="button" class="block mt-3 underline">
                             See Less
                         </button>
                     </div>
