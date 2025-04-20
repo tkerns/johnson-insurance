@@ -1,11 +1,13 @@
 @extends('layouts.main')
 @section('content')
-    <div class="h-[550px] bg-no-repeat bg-cover bg-center"
+    <div class="h-[550px] bg-no-repeat bg-cover bg-center relative"
         style="background-image: url('/images/inside-header.jpg')">
         <div class="h-full content-box text-white ml-auto flex flex-col justify-center items-center">
             <hr class="mx-auto border-2 border-brand-lime w-24">
-            <h1 class="text-center my-8">BUSINESS INSURANCE</h1>
+            <h1 class="text-center my-8">BUSINESS INSUANCE</h1>
             <hr class="mx-auto border-2 border-brand-lime w-24">
+            <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 bottom-0" width="100px"
+                height="auto">
         </div>
     </div>
     <main class="mt-10 content-box grid sm:grid-cols-2 lg:grid-cols-3 gap-6">

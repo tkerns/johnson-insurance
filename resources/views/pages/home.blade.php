@@ -26,21 +26,25 @@
         <section x-ref="splide" class="splide">
             <div class="splide__track">
                 <div class="splide__list">
-                    <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
+                    <div class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px] relative"
                         style="background-image: url('/images/header-1.jpg')">
-                            <div class="content-box mr-auto h-full flex justify-center lg:justify-start items-center">
-                                <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS OFF</p>
-                            </div>
+                        <div class="content-box mr-auto h-full flex justify-center lg:justify-start items-center">
+                            <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS
+                                OFF</p>
+                        </div>
+                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 bottom-0"
+                            width="100px" height="auto">
                     </div>
 
-                    <div
-                        class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px]"
+                    <div class="splide__slide bg-no-repeat bg-cover bg-center h-[400px] md:h-[725px] relative"
                         style="background-image: url('/images/header-1.jpg')">
                         <div class="content-box ml-auto h-full flex justify-center lg:justify-end items-center">
-                            <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">SMART INSURANCE SOLUTIONS FOR YOUR DAYS ON
+                            <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">SMART INSURANCE
+                                SOLUTIONS FOR YOUR DAYS ON
                             </p>
                         </div>
+                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 bottom-0"
+                            width="100px" height="auto">
                     </div>
                 </div>
             </div>
@@ -56,22 +60,22 @@
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/welding.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Construction</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
+                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/taps.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
+                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/plane.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
+                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/driver.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Oil And Gas</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline">View Details</a>
+                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
             </div>
         </section>
@@ -102,7 +106,8 @@
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
             </div>
             <div class="content-box flex flex-col md:flex-row flex-wrap">
-                <div class="md:w-1/2 lg:w-1/4 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-center">
+                <div
+                    class="md:w-1/2 lg:w-1/4 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
                             <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
@@ -149,7 +154,8 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/professional-liability" class="extended-link text-center">Professional Liability</a>
+                        <a href="/business/professional-liability" class="extended-link text-center">Professional
+                            Liability</a>
                     </div>
                 </div>
 
@@ -251,7 +257,8 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/employment-practices" class="extended-link text-center">Employment Practices</a>
+                        <a href="/business/employment-practices" class="extended-link text-center">Employment
+                            Practices</a>
                     </div>
                 </div>
 
@@ -330,7 +337,8 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/homeowners" class="mt-8 extended-link text-black hover:text-white">Homeowner's Insurance</a>
+                    <a href="/personal/homeowners" class="mt-8 extended-link text-black hover:text-white">Homeowner's
+                        Insurance</a>
                 </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
@@ -381,7 +389,8 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/snowmachine" class="mt-8 extended-link text-black hover:text-white">Snow Machine</a>
+                    <a href="/personal/snowmachine" class="mt-8 extended-link text-black hover:text-white">Snow
+                        Machine</a>
                 </div>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-4 mt-4">
@@ -434,12 +443,14 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/umbrella" class="mt-8 extended-link text-black hover:text-white">Personal Umbrella</a>
+                    <a href="/personal/umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
+                        Umbrella</a>
                 </div>
             </div>
         </section>
         <section>
-            <a target="_blank" href="https://www.google.com/maps/dir//Johnson+Insurance+Group+35440+Kenai+Spur+Hwy+Soldotna,+AK+99669/@60.4935451,-151.0666124,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x56c66166ba70ee8b:0xe8f106a88588d0f5">
+            <a target="_blank"
+                href="https://www.google.com/maps/dir//Johnson+Insurance+Group+35440+Kenai+Spur+Hwy+Soldotna,+AK+99669/@60.4935451,-151.0666124,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x56c66166ba70ee8b:0xe8f106a88588d0f5">
                 <img class="w-full h-full" src="/images/map-placeholder.jpg" alt="">
                 <span class="sr-only">Click here for Google Maps directions to our office</span>
             </a>

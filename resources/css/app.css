@@ -45,11 +45,11 @@
     }
 
     h4 {
-        @apply text-3xl font-semibold mb-2
+        @apply text-lg font-bold mb-2
     }
 
     p {
-        @apply mb-8;
+        @apply mb-6;
     }
 
     .btn {
