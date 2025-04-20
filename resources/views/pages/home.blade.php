@@ -122,7 +122,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/workers-comp" class="extended-link text-center">Workers' Compensation</a>
+                        <a href="/business/#workers-comp" class="extended-link text-center">Workers' Compensation</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -138,7 +138,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/equipment" class="extended-link text-center">Equipment Insurance</a>
+                        <a href="/business/#equipment" class="extended-link text-center">Equipment Insurance</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -154,7 +154,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/professional-liability" class="extended-link text-center">Professional
+                        <a href="/business/#pro-liability" class="extended-link text-center">Professional
                             Liability</a>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/general-liability" class="extended-link text-center">General Liability</a>
+                        <a href="/business/#general" class="extended-link text-center">General Liability</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -190,7 +190,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/ocean-marine" class="extended-link text-center">Ocean Marine</a>
+                        <a href="/business/#marine" class="extended-link text-center">Ocean Marine</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -206,7 +206,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/liquor" class="extended-link text-center">Liquor Liability</a>
+                        <a href="/business/#liquor" class="extended-link text-center">Liquor Liability</a>
                     </div>
                 </div>
 
@@ -225,7 +225,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/commercial-property" class="extended-link text-center">Commercial Property</a>
+                        <a href="/business/#property" class="extended-link text-center">Commercial Property</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -241,7 +241,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/aviation" class="extended-link text-center">Aviation</a>
+                        <a href="/business/#aviation" class="extended-link text-center">Aviation</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -257,7 +257,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/employment-practices" class="extended-link text-center">Employment
+                        <a href="/business/#employment" class="extended-link text-center">Employment
                             Practices</a>
                     </div>
                 </div>
@@ -277,7 +277,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/auto-trucking" class="extended-link text-center">Commercial Auto & Trucking</a>
+                        <a href="/business/#auto" class="extended-link text-center">Commercial Auto & Trucking</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -293,7 +293,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/umbrella" class="extended-link text-center">Commercial Umbrella</a>
+                        <a href="/business/#umbrella" class="extended-link text-center">Commercial Umbrella</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -309,7 +309,7 @@
                                 </g>
                             </svg>
                         </div>
-                        <a href="/business/cyber-liability" class="extended-link text-center">Cyber Liability</a>
+                        <a href="/business/#cyber" class="extended-link text-center">Cyber Liability</a>
                     </div>
                 </div>
 
@@ -337,7 +337,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/homeowners" class="mt-8 extended-link text-black hover:text-white">Homeowner's
+                    <a href="/personal/#homeowner" class="mt-8 extended-link text-black hover:text-white">Homeowner's
                         Insurance</a>
                 </div>
                 <div
@@ -355,7 +355,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/auto" class="mt-8 extended-link text-black hover:text-white">Personal Auto</a>
+                    <a href="/personal/#auto" class="mt-8 extended-link text-black hover:text-white">Personal Auto</a>
                 </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
@@ -372,7 +372,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/watercraft" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
+                    <a href="/personal/#watercraft" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
                 </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
@@ -389,7 +389,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/snowmachine" class="mt-8 extended-link text-black hover:text-white">Snow
+                    <a href="/personal/#snowmachine" class="mt-8 extended-link text-black hover:text-white">Snow
                         Machine</a>
                 </div>
             </div>
@@ -409,7 +409,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/rv" class="mt-8 extended-link text-black hover:text-white">RV</a>
+                    <a href="/personal/#rv" class="mt-8 extended-link text-black hover:text-white">RV</a>
                 </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
@@ -426,7 +426,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/atv" class="mt-8 extended-link text-black hover:text-white">ATV</a>
+                    <a href="/personal/#atv" class="mt-8 extended-link text-black hover:text-white">ATV</a>
                 </div>
                 <div
                     class="md:col-span-2 lg:col-span-1 w-full md:w-1/2 mx-auto lg:w-full holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
@@ -443,7 +443,7 @@
                             <path stroke-linecap="round" d="m12.5 17.5l5-5m-2 0l2 2m-5 1l2 2M14 14l2 2" />
                         </g>
                     </svg>
-                    <a href="/personal/umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
+                    <a href="/personal/#umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
                         Umbrella</a>
                 </div>
             </div>

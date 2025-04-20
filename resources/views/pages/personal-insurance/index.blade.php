@@ -22,7 +22,7 @@
             peace of mind.
         </p>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            <section class="flex flex-col border-2 border-black">
+            <section id="homeowner" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-1.jpg" alt="">
                 <div class="p-8">
                     <h2>Homeowner's Insurance: A Must-Have in Alaska</h2>
@@ -77,7 +77,7 @@
                     </div>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="auto" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-2.jpg" alt="">
                 <div class="p-8">
                     <h2>Personal Auto Insurance: Essential Coverage for Alaska Drivers</h2>
@@ -141,7 +141,7 @@
                     </div>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="watercraft" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-3.jpg" alt="">
                 <div class="p-8">
                     <h2>Marine Insurance: Protecting Your Watercraft and Maritime Activities</h2>
@@ -211,7 +211,7 @@
                     </div>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="snowmachine" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-4.jpg" alt="">
                 <div class="p-8">
                     <h2>Snowmachine</h2>
@@ -222,7 +222,7 @@
                         quasi sunt!</p>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="rv" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-5.jpg" alt="">
                 <div class="p-8">
                     <h2>Recreational Vehicle (RV) Insurance: Coverage for the Road Ahead</h2>
@@ -301,7 +301,7 @@
                     </div>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="atv" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-6.jpg" alt="">
                 <div class="p-8">
                     <h2>ATV</h2>
@@ -312,7 +312,7 @@
                         quasi sunt!</p>
                 </div>
             </section>
-            <section class="flex flex-col border-2 border-black">
+            <section id="umbrella" class="flex flex-col border-2 border-black">
                 <img class="w-full" src="/images/personal-7.jpg" alt="">
                 <div class="p-8">
                     <h2>Personal Umbrella Policies</h2>
