@@ -9,7 +9,7 @@
                 stroke-width="4" d="M36 18L24 30L12 18" />
         </svg>
     </button>
-    <ul x-cloak x-show="openBusiness" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
+    <ul x-cloak x-show="openBusiness" @click.outside="openBusiness=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
             <a href="/business/workers-comp">Workers' Compensation</a>
         </li>
@@ -56,7 +56,7 @@
                 stroke-width="4" d="M36 18L24 30L12 18" />
         </svg>
     </button>
-    <ul x-cloak x-show="openPersonal" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
+    <ul x-cloak x-show="openPersonal" @click.outside="openPersonal=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
             <a href="/personal/homeowners">Homeowner's Insurance</a>
         </li>
