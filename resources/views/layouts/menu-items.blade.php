@@ -11,40 +11,40 @@
     </button>
     <ul x-cloak x-show="openBusiness" @click.outside="openBusiness=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/workers-comp">Workers' Compensation</a>
+            <a href="/business/#workers-comp">Workers' Compensation</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/general-liability">General Liability</a>
+            <a href="/business/#general">General Liability</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/commercial-property">Commercial Property</a>
+            <a href="/business/#property">Commercial Property</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/auto-trucking">Commercial Auto & Trucking</a>
+            <a href="/business/#auto">Commercial Auto & Trucking</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/equipment">Equipment Insurance</a>
+            <a href="/business/#equipment">Equipment Insurance</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/ocean-marine">Ocean Marine</a>
+            <a href="/business/#marine">Ocean Marine</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/aviation">Aviation</a>
+            <a href="/business/#aviation">Aviation</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/umbrella">Commercial Umbrella</a>
+            <a href="/business/#umbrella">Commercial Umbrella</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/professional-liability">Professional Liability</a>
+            <a href="/business/#pro-liability">Professional Liability</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/liquor">Liquor Liability</a>
+            <a href="/business/#liquor">Liquor Liability</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/employment-practices">Employment Practices</a>
+            <a href="/business/#employment">Employment Practices</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/cyber-liability">Cyber Liability</a>
+            <a href="/business/#cyber">Cyber Liability</a>
         </li>
     </ul>
 </li>
@@ -58,25 +58,25 @@
     </button>
     <ul x-cloak x-show="openPersonal" @click.outside="openPersonal=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/homeowners">Homeowner's Insurance</a>
+            <a href="/personal/#homeowner">Homeowner's Insurance</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/auto">Personal Auto</a>
+            <a href="/personal/#auto">Personal Auto</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/watercraft">Watercraft</a>
+            <a href="/personal/#watercraft">Watercraft</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/snowmachine">Snowmachine</a>
+            <a href="/personal/#snowmachine">Snowmachine</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/atv">ATV</a>
+            <a href="/personal/#atv">ATV</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/rv">RV</a>
+            <a href="/personal/#rv">RV</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/umbrella">Personal Umbrella</a>
+            <a href="/personal/#umbrella">Personal Umbrella</a>
         </li>
     </ul>
 </li>
