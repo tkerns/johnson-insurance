@@ -80,6 +80,9 @@
         </li>
     </ul>
 </li>
-<li class="hover:underline hover:text-brand-lime">
+{{-- <li class="hover:underline hover:text-brand-lime">
     <a href="/customer-service">Customer Service</a>
+</li> --}}
+<li class="hover:underline hover:text-brand-lime">
+    <a href="/industries">Primary Industries</a>
 </li>

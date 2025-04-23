@@ -86,9 +86,14 @@
                                 Personal Insurance
                             </a>
                         </li>
-                        <li>
+                        {{-- <li>
                             <a class="hover:underline hover:text-brand-lime" href="/customer-service">
                                 Customer Service
+                            </a>
+                        </li> --}}
+                        <li>
+                            <a class="hover:underline hover:text-brand-lime" href="/industries">
+                                Primary Industries
                             </a>
                         </li>
                     </ul>

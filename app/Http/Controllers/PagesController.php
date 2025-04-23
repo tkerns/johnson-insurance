@@ -30,13 +30,13 @@ class PagesController extends Controller
         return view('pages.contact', compact('title', 'metaDesc'));
     }
 
-    public function service(){
+    // public function service(){
 
-        $title= 'Customer Service | Johnson Insurance Group';
-        $metaDesc= '';
+    //     $title= 'Customer Service | Johnson Insurance Group';
+    //     $metaDesc= '';
 
-        return view('pages.customer-service', compact('title', 'metaDesc'));
-    }
+    //     return view('pages.customer-service', compact('title', 'metaDesc'));
+    // }
 
     public function news(){
 
@@ -62,6 +62,14 @@ class PagesController extends Controller
         $metaDesc= '';
 
         return view('pages.personal', compact('title', 'metaDesc'));
+    }
+
+    public function industries(){
+
+        $title= 'Primary Industries | Johnson Insurance Group';
+        $metaDesc= '';
+
+        return view('pages.industries', compact('title', 'metaDesc'));
     }
 
 
