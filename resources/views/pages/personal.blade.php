@@ -305,5 +305,6 @@
                 </span>. Contact us today to learn how we can help safeguard your adventures on the road and the water.
             </p>
         </section>
+        <hr class="my-12 border-2 border-brand-lime">
     </main>
 @endsection

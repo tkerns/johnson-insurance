@@ -558,7 +558,7 @@
             </ul>
         </section>
         <hr class="my-12 border-2 border-brand-lime">
-        <section>
+        <section id="more">
             <h2 class="text-center mb-4">Additional Commercial Insurance Products:</h2>
             <h3>In Addition to the Core Commercial Products, We Offer:</h3>
             <p>At Johnson Insurance Group, we understand that every business is unique and has specialized insurance needs.
@@ -649,5 +649,6 @@
                 Liability, and Marine Insurance, can protect your business.
             </p>
         </section>
+        <hr class="my-12 border-2 border-brand-lime">
     </main>
 @endsection
