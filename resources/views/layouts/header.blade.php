@@ -1,7 +1,7 @@
 <header>
     <div class="content-box flex gap-4 justify-between items-center">
         <div class="w-3/4 md:w-[380px]">
-            <img src="/images/logo.png" alt="Johnson Insurance Group" width="380px" height="auto">
+            <img src="/images/logo.webp" alt="Johnson Insurance Group" width="380px" height="auto">
         </div>
         <nav class="hidden md:block">
             <div class="flex justify-end gap-3 mb-4">
@@ -25,7 +25,7 @@
             </button>
             <div :class="open ? 'translate-x-0' : '-translate-x-full'"
                 class="fixed h-screen left-0 top-0 bg-white p-8 pt-16 border-r-2 border-black text-black w-3/4 transition-transform duration-700 z-20">
-                <img class="mb-8" src="/images/logo.png" alt="Johnson Insurance Group" width="2000px" height="auto">
+                <img class="mb-8" src="/images/logo.webp" alt="Johnson Insurance Group" width="2000px" height="auto">
                 <ul class="flex flex-col gap-4 text-xl">
                     @include('layouts.menu-items')
                 </ul>

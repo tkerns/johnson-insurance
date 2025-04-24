@@ -2,7 +2,7 @@
 @section('content')
     <div class="h-[550px] bg-no-repeat bg-cover bg-center relative"
         style="background-image: url('/images/inside-header.jpg')">
-        <div class="h-full content-box text-white ml-auto flex flex-col justify-center items-start">
+        <div class="h-full content-box text-white ml-auto flex flex-col justify-center items-center">
             <hr class="mx-auto border-2 border-brand-lime w-24">
             <h1 class="text-center my-8">PRIMARY INDUSTRIES</h1>
             <hr class="mx-auto border-2 border-brand-lime w-24">
@@ -50,13 +50,13 @@
                         </li>
                     </ul>
                 </div>
-                <img src="/images/taps.jpg" alt="">
+                <img src="/images/taps.webp" alt="">
             </div>
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="construction">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/welding.jpg" alt="">
+                <img src="/images/welding.webp" alt="">
                 <div>
                     <h2>Insurance Solutions for Construction Companies</h2>
                     <p>At <span class="font-bold">Johnson Insurance Group</span>, we understand that construction businesses
@@ -140,7 +140,7 @@
                         </li>
                     </ul>
                 </div>
-                <img src="/images/driver.jpg" alt="">
+                <img src="/images/driver.webp" alt="">
             </div>
             <p>
                 With vast experience in the oil and gas industry, we partner with you to ensure your assets, operations, and
@@ -153,7 +153,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="commercial">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/storefront.jpg" alt="">
+                <img src="/images/storefront.webp" alt="">
                 <div>
                     <h2>Insurance for Commercial Buildings in Alaska</h2>
                     <p>From harsh weather conditions to the logistical complexities of remote locations, if you own a
@@ -255,7 +255,7 @@
                         </li>
                     </ul>
                 </div>
-                <img src="/images/plane.jpg" alt="">
+                <img src="/images/plane.webp" alt="">
             </div>
             <p>Running a lodge or guiding business in Alaska is a unique adventure, and we’re here to make sure your
                 business is prepared for whatever comes your way. Our team works closely with you to design a comprehensive

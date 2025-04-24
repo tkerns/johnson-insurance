@@ -44,8 +44,8 @@
                 </p>
             </div>
             <div class="sm:w-1/2 md:w-1/4 mx-auto flex flex-col sm:flex-row md:flex-col gap-12 justify-center">
-                <img class="md:ml-auto border-8 border-brand-lime" src="/images/annie-johnson.jpg" alt="">
-                <img class="md:ml-auto border-8 border-brand-lime" src="/images/blaine-johnson.jpeg" alt="">
+                <img class="md:ml-auto border-8 border-brand-lime" src="/images/annie-johnson.webp" alt="">
+                <img class="md:ml-auto border-8 border-brand-lime" src="/images/blaine-johnson.webp" alt="">
             </div>
         </section>
         <section class="mt-16">

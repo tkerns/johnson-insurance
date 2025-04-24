@@ -13,8 +13,8 @@
     <main class="mt-10 content-box">
         <section>
             <div class="flex items-center justify-center gap-10 mb-10">
-                <img src="/images/umalik-logo.png" alt="" width="100px" height="auto">
-                <img src="/images/coe-badge-2024.png" alt="" width="100px" height="auto">
+                <img src="/images/umalik-logo.webp" alt="" width="100px" height="auto">
+                <img src="/images/coe-badge-2024.webp" alt="" width="100px" height="auto">
             </div>
             <h2>Johnson Insurance Group Named a Commercial Lines ‘Circle of Excellence Agency’ by Umialik Insurance Company and
                 Western National Insurance Group

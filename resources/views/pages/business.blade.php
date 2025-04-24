@@ -41,7 +41,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="workers-comp">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-1.jpg" alt="">
+                <img src="/images/employee-manager.webp" alt="">
                 <div>
                     <h2>Worker's Compensation</h2>
                     <p>If your business is currently in the Assigned Risk Pool for Workers’ Compensation coverage, you’re
@@ -81,7 +81,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="general">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-2.jpg" alt="">
+                <img src="/images/pen-forms.webp" alt="">
                 <div>
                     <h2>General Liability</h2>
                     <h3>Protect Your Business with a Competitively Priced Commercial General Liability Policy
@@ -144,7 +144,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="property">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-3.jpg" alt="">
+                <img src="/images/building-1.webp" alt="">
                 <div>
                     <h2>Commercial Property</h2>
                     <h3>Protect Your Business with Comprehensive Commercial Property Insurance</h3>
@@ -215,7 +215,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="auto">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-4.jpg" alt="">
+                <img src="/images/trucks-1.webp" alt="">
                 <div>
                     <h2>Commercial Auto and Trucking</h2>
                     <h3>Protect Your Business with a Comprehensive Auto Insurance Policy</h3>
@@ -296,7 +296,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="employment">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-11.jpg" alt="">
+                <img src="/images/meeting-1.webp" alt="">
                 <div>
                     <h2>Employment Practices</h2>
                     <h3>Protect Your Business with Employment Practices Liability Insurance (EPLI)</h3>
@@ -372,7 +372,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="cyber">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-12.jpg" alt="">
+                <img src="/images/cyber-lock.webp" alt="">
                 <div>
                     <h2>Cyber Liability</h2>
                     <h3>Protect Your Business with Cyber Liability Insurance</h3>
@@ -454,7 +454,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="umbrella">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/business-8.jpg" alt="">
+                <img src="/images/umbrella-1.webp" alt="">
                 <div>
                     <h2>Commercial Umbrella</h2>
                     <h3>Protect Your Business with Commercial Umbrella Insurance</h3>
@@ -527,7 +527,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="environment">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="/images/nature.jpg" alt="">
+                <img src="/images/nature.webp" alt="">
                 <div>
                     <h2>Protect Your Business with Environmental Liability Insurance</h2>
                     <p>In today’s world, environmental risks are a growing concern for businesses across industries. Whether

@@ -47,7 +47,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="homeowner">
             <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="/images/personal-1.jpg" alt="">
+                <img src="/images/keys.webp" alt="">
                 <div class="mt-4">
                     <h2>Homeowner's Insurance: A Must-Have in Alaska</h2>
                     <p>
@@ -96,7 +96,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="auto">
             <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="/images/personal-2.jpg" alt="">
+                <img src="/images/auto-2.webp" alt="">
                 <div class="mt-4">
                     <h2>Personal Auto Insurance: Essential Coverage for Alaska Drivers</h2>
                     <p>In Alaska, <span class="font-bold">Personal Auto Insurance</span> is crucial for protecting you, your
@@ -154,7 +154,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="umbrella">
             <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="/images/personal-7.jpg" alt="">
+                <img src="/images/umbrella-2.webp" alt="">
                 <div class="mt-4">
                     <h2>Personal Umbrella Policies</h2>
                     <p><span class="font-bold">Personal Umbrella Insurance</span> is an essential addition to your existing
@@ -222,7 +222,7 @@
                 personal travels and water-based activities.</p>
             <div id="rv" class="my-8">
                 <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                    <img src="/images/personal-5.jpg" alt="">
+                    <img src="/images/motorhome.webp" alt="">
                     <div class="mt-4">
                         <h3>Recreational Vehicle (RV) Insurance: Coverage for the Road Ahead</h3>
                         <p>Owning an RV opens up endless possibilities for travel and adventure, but it also comes with
@@ -260,7 +260,7 @@
             </div>
             <div id="marine" class="my-8">
                 <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                    <img src="/images/personal-3.jpg" alt="">
+                    <img src="/images/boats.webp" alt="">
                     <div class="mt-4">
                         <h3>Marine Insurance: Protecting Your Watercraft and Maritime Activities</h3>
                         <p>Whether you're boating for leisure or fishing the waters of Alaska, <span

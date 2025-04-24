@@ -81,7 +81,7 @@
         </section>
         <section class="my-4 content-box flex flex-col lg:flex-row items-center justify-evenly gap-8 md:px-14 py-8">
             <div class="lg:w-1/2">
-                <img src="/images/about-placeholder.png" alt="">
+                <img src="/images/about.webp" alt="">
             </div>
             <div class="lg:w-1/2 md:px-8 py-8">
                 <h2 class="text-5xl">ABOUT US</h2>
@@ -221,7 +221,7 @@
         <section>
             <a target="_blank"
                 href="https://www.google.com/maps/dir//Johnson+Insurance+Group+35440+Kenai+Spur+Hwy+Soldotna,+AK+99669/@60.4935451,-151.0666124,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x56c66166ba70ee8b:0xe8f106a88588d0f5">
-                <img class="w-full h-full" src="/images/map-placeholder.jpg" alt="">
+                <img class="w-full h-full" src="/images/map-placeholder.webp" alt="">
                 <span class="sr-only">Click here for Google Maps directions to our office</span>
             </a>
         </section>
