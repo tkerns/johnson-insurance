@@ -32,7 +32,7 @@
                             <p class="text-4xl md:text-7xl lg::text-8xl font-bold text-white w-1/2">FOR MORE RELAXING DAYS
                                 OFF</p>
                         </div>
-                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 bottom-0"
+                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 -bottom-1"
                             width="100px" height="auto">
                     </div>
 
@@ -43,7 +43,7 @@
                                 SOLUTIONS FOR YOUR DAYS ON
                             </p>
                         </div>
-                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 bottom-0"
+                        <img src="/images/puzzle2.svg" alt="" class="md:w-[200px] absolute right-0 -bottom-1"
                             width="100px" height="auto">
                     </div>
                 </div>
