@@ -25,19 +25,19 @@
                     <p>Our comprehensive restaurant insurance packages cover:</p>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
-                            <span class="font-bold">Property Coverage</span> – Protects your building, equipment, and
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Property Coverage</a> – Protects your building, equipment, and
                             inventory from fire, theft, or damage.
                         </li>
                         <li>
-                            <span class="font-bold">General Liability</span> – Covers accidents and injuries that may occur
+                            <a href="/business/#general" class="font-bold">General Liability</a> – Covers accidents and injuries that may occur
                             on your property.
                         </li>
                         <li>
-                            <span class="font-bold">Business Interruption</span> – Helps keep your business running during
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Business Interruption</a> – Helps keep your business running during
                             unexpected closures or disruptions.
                         </li>
                         <li>
-                            <span class="font-bold">Workers’ Compensation</span> – Provides coverage for employees in case
+                            <a href="/business/#workers-comp" class="font-bold hover:underline focus:underline">Workers’ Compensation</a> – Provides coverage for employees in case
                             of injury or illness on the job.
                         </li>
                         <li>
@@ -45,7 +45,7 @@
                             alcohol.
                         </li>
                         <li>
-                            <span class="font-bold">Cyber Liability</span> – Safeguards your business from digital threats,
+                            <a href="/business/#cyber" class="font-bold hover:underline focus:underline">Cyber Liability</a> – Safeguards your business from digital threats,
                             especially if you manage customer data or take online orders.
                         </li>
                     </ul>
@@ -67,11 +67,11 @@
                     <p>Our policies can protect your business and employees with coverage options including:</p>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
-                            <span class="font-bold">General Liability</span> – Covers injuries, accidents, or property
+                            <a href="/business/#general" class="font-bold hover:underline focus:underline">General Liability</a> – Covers injuries, accidents, or property
                             damage that may occur on the job site, along with products and completed operations liability.
                         </li>
                         <li>
-                            <span class="font-bold">Workers’ Compensation</span> – Provides financial protection for
+                            <a href="/business/#workers-comp" class="font-bold hover:underline focus:underline">Workers’ Compensation</a> – Provides financial protection for
                             employees injured while working, ensuring their medical bills and lost wages are covered.
                         </li>
                         <li>
@@ -79,7 +79,7 @@
                             projects from risks like fire, wind damage, or theft.
                         </li>
                         <li>
-                            <span class="font-bold">Commercial Auto Insurance</span> – Covers vehicles used for business
+                            <a href="/business/#auto" class="font-bold hover:underline focus:underline">Commercial Auto Insurance</a> – Covers vehicles used for business
                             purposes, including pickups, private passenger vehicles or heavy trucks.
                         </li>
                         <li>
@@ -87,11 +87,11 @@
                             equipment from loss, theft, or damage on the job site.
                         </li>
                         <li>
-                            <span class="font-bold">Contractor’s Professional Liability</span> – Covers claims related to
+                            <a href="/business/#pro" class="font-bold hover:underline focus:underline">Contractor’s Professional Liability</a> – Covers claims related to
                             errors, omissions, or negligence in your professional services.
                         </li>
                         <li>
-                            <span class="font-bold">Umbrella Insurance</span> – Provides extra liability coverage above and
+                            <a href="/business/#umbrella" class="font-bold hover:underline focus:underline">Umbrella Insurance</a> – Provides extra liability coverage above and
                             beyond your standard policies to ensure greater protection.
                         </li>
                     </ul>
@@ -115,15 +115,15 @@
                     <p>Our specialized coverage includes:</p>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
-                            <span class="font-bold">General Liability Insurance</span> – Protects against bodily injury,
+                            <a href="/business/#general" class="font-bold hover:underline focus:underline">General Liability Insurance</a> – Protects against bodily injury,
                             property damage, and environmental harm resulting from your operations.
                         </li>
                         <li>
-                            <span class="font-bold">Pollution Liability</span> – Essential for addressing the environmental
+                            <a href="/business/#environment" class="font-bold hover:underline focus:underline">Pollution Liability</a> – Essential for addressing the environmental
                             risks associated with oil and gas operations, including spills and contamination.
                         </li>
                         <li>
-                            <span class="font-bold">Workers’ Compensation</span> – Provides protection for employees injured
+                            <a href="/business/#workers-comp" class="font-bold hover:underline focus:underline">Workers’ Compensation</a> – Provides protection for employees injured
                             in high-risk environments, ensuring medical expenses and lost wages are covered.
                         </li>
                         <li>
@@ -135,7 +135,7 @@
                             and machinery from unexpected breakdowns that could halt operations.
                         </li>
                         <li>
-                            <span class="font-bold">Umbrella Liability Insurance</span> – Offers additional liability
+                            <a href="/business/#umbrella" class="font-bold hover:underline focus:underline">Umbrella Liability Insurance</a> – Offers additional liability
                             coverage to protect your business beyond the limits of your standard policies.
                         </li>
                     </ul>
@@ -165,22 +165,22 @@
                         comprehensive protection for businesses of all sizes, including:</p>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
-                            <span class="font-bold">Property Insurance</span> – Protects your building, equipment, and
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Property Insurance</a> – Protects your building, equipment, and
                             inventory from damage caused by fire, theft, vandalism, or severe weather events, including
                             Alaska's extreme cold, snow, and ice.
                         </li>
                         <li>
-                            <span class="font-bold">General Liability Insurance</span> – Covers accidents, injuries, or
+                            <a href="/business/#general" class="font-bold hover:underline focus:underline">General Liability Insurance</a> – Covers accidents, injuries, or
                             property damage that may occur on your commercial property, helping protect you from potential
                             lawsuits.
                         </li>
                         <li>
-                            <span class="font-bold">Business Interruption Insurance</span> – Helps replace lost income and
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Business Interruption Insurance</a> – Helps replace lost income and
                             cover operating expenses in case of a covered event that temporarily halts your business
                             operations.
                         </li>
                         <li>
-                            <span class="font-bold">Workers’ Compensation Insurance</span> – Provides coverage for employees
+                            <a href="/business/#workers-comp" class="font-bold hover:underline focus:underline">Workers’ Compensation Insurance</a> – Provides coverage for employees
                             who are injured while working on your property, including medical expenses and lost wages.
                         </li>
                         <li>
@@ -196,7 +196,7 @@
                             caused by high winds, hail, or snowstorms, which are common in Alaskan weather.
                         </li>
                         <li>
-                            <span class="font-bold">Umbrella Insurance</span> – Provides additional liability coverage
+                            <a href="/business/#umbrella" class="font-bold hover:underline focus:underline">Umbrella Insurance</a> – Provides additional liability coverage
                             beyond the limits of your standard policies, ensuring you have extra protection in case of major
                             claims.
                         </li>
@@ -222,22 +222,22 @@
                         needs, including:</p>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
-                            <span class="font-bold">General Liability Insurance</span> – Protects against injuries or
+                            <a href="/business/#general" class="font-bold hover:underline focus:underline">General Liability Insurance</a> – Protects against injuries or
                             accidents that may occur on your property or during guided activities, such as fishing, hiking,
                             or wildlife tours.
                         </li>
                         <li>
-                            <span class="font-bold">Property Insurance</span> – Covers your lodge, equipment, and
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Property Insurance</a> – Covers your lodge, equipment, and
                             furnishings from damage due to fire, theft, other risks associated with Alaska’s extreme weather
                             conditions.
                         </li>
                         <li>
-                            <span class="font-bold">Business Interruption Insurance</span> – Helps replace lost income and
+                            <a href="/business/#property" class="font-bold hover:underline focus:underline">Business Interruption Insurance</a> – Helps replace lost income and
                             cover operating expenses if your business is temporarily shut down due to a covered event, such
                             as severe weather or property damage.
                         </li>
                         <li>
-                            <span class="font-bold">Workers’ Compensation Insurance</span> – Provides coverage for your
+                            <a href="/business/#workers-comp" class="font-bold hover:underline focus:underline">Workers’ Compensation Insurance</a> – Provides coverage for your
                             employees in case of injury or illness while working in the field or on the property, ensuring
                             medical expenses and lost wages are covered.
                         </li>
@@ -250,7 +250,7 @@
                             protects against the risks associated with serving alcohol to your guests.
                         </li>
                         <li>
-                            <span class="font-bold">Umbrella Insurance</span> – Provides additional liability protection
+                            <a href="/business/#umbrella" class="font-bold hover:underline focus:underline">Umbrella Insurance</a> – Provides additional liability protection
                             beyond the limits of your standard policies, ensuring you’re covered for larger claims.
                         </li>
                     </ul>
