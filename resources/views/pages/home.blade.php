@@ -106,9 +106,8 @@
                 <h2 class="text-4xl text-center">BUSINESS INSURANCE</h2>
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
             </div>
-            <div class="content-box flex flex-col md:flex-row flex-wrap">
-                <div
-                    class="md:w-1/2 lg:w-1/4 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-center">
+            <div class="content-box flex flex-col md:flex-row">
+                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/workers-comp.png" alt="" width="80" height="80">
@@ -117,52 +116,23 @@
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/equipment.png" alt="" width="80" height="80">
-                        </div>
-                        <a href="/business/#equipment" class="extended-link text-center">Equipment Insurance</a>
-                    </div>
-                    <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/pro-liability.png" alt="" width="80" height="80">
-                        </div>
-                        <a href="/business/#pro-liability" class="extended-link text-center">Professional
-                            Liability</a>
-                    </div>
-                </div>
-
-                <div class="md:w-1/2 lg:w-1/4 py-8 lg:border-r border-white flex flex-col gap-y-16 justify-center">
-                    <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/general-liability.png" alt="" width="80" height="80">
                         </div>
                         <a href="/business/#general" class="extended-link text-center">General Liability</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/ocean-marine.png" alt="" width="80" height="80">
-                        </div>
-                        <a href="/business/#marine" class="extended-link text-center">Ocean Marine</a>
-                    </div>
-                    <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/liquor.png" alt="" width="80" height="80">
-                        </div>
-                        <a href="/business/#liquor" class="extended-link text-center">Liquor Liability</a>
-                    </div>
-                </div>
-
-                <div class="md:w-1/2 lg:w-1/4 py-8 md:border-r border-white flex flex-col gap-y-16 justify-center">
-                    <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/commercial-property.png" alt="" width="80" height="80">
                         </div>
                         <a href="/business/#property" class="extended-link text-center">Commercial Property</a>
                     </div>
+                </div>
+                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
-                        <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/aviation.png" alt="" width="80" height="80">
+                        <div class="w-fit mx-auto mb-4 mt-6">
+                            <img src="/images/icons/auto-trucking.png" alt="" width="80" height="80">
                         </div>
-                        <a href="/business/#aviation" class="extended-link text-center">Aviation</a>
+                        <a href="/business/#auto" class="extended-link text-center">Commercial Auto & Trucking</a>
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
@@ -171,15 +141,14 @@
                         <a href="/business/#employment" class="extended-link text-center">Employment
                             Practices</a>
                     </div>
-                </div>
-
-                <div class="md:w-1/2 lg:w-1/4 py-8 flex flex-col gap-y-16 justify-center">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/auto-trucking.png" alt="" width="80" height="80">
+                            <img src="/images/icons/cyber-liability.png" alt="" width="80" height="80">
                         </div>
-                        <a href="/business/#auto" class="extended-link text-center">Commercial Auto & Trucking</a>
+                        <a href="/business/#cyber" class="extended-link text-center">Cyber Liability</a>
                     </div>
+                </div>
+                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/umbrella.png" alt="" width="80" height="80">
@@ -188,12 +157,17 @@
                     </div>
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
-                            <img src="/images/icons/cyber-liability.png" alt="" width="80" height="80">
+                            <img src="/images/icons/environment.svg" alt="" width="80" height="80">
                         </div>
-                        <a href="/business/#cyber" class="extended-link text-center">Cyber Liability</a>
+                        <a href="/business/#environment" class="extended-link text-center">Environmental Liability</a>
+                    </div>
+                    <div class="flex flex-col justify-center relative">
+                        <div class="w-fit mx-auto mb-4">
+                            <img src="/images/icons/plus.svg" alt="" width="80" height="80">
+                        </div>
+                        <a href="/business/#more" class="extended-link text-center">Additional Commercial Insurance Products</a>
                     </div>
                 </div>
-
             </div>
         </section>
 
@@ -202,12 +176,12 @@
                 <h2 class="text-4xl text-center">PERSONAL INSURANCE</h2>
                 <hr class="mx-auto border-2 border-brand-lime w-10 mt-6">
             </div>
-            <div class="grid md:grid-cols-2 lg:grid-cols-4 grid-rows-1 gap-4">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-4">
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img src="/images/icons/homeowner.png" alt="" width="80" height="80">
+                        <img class="icon" src="/images/icons/homeowner-lime.png" alt="" width="80" height="80">
                     <a href="/personal/#homeowner" class="mt-8 extended-link text-black hover:text-white">Homeowner's
                         Insurance</a>
                 </div>
@@ -215,47 +189,32 @@
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img src="/images/icons/personal-auto.png" alt="" width="80" height="80">
+                        <img class="icon" src="/images/icons/personal-auto-lime.png" alt="" width="80" height="80">
                     <a href="/personal/#auto" class="mt-8 extended-link text-black hover:text-white">Personal Auto</a>
                 </div>
                 <div
-                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                        height="50px">
-                        <img src="/images/icons/watercraft.png" alt="" width="80" height="80">
-                    <a href="/personal/#watercraft" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
-                </div>
-                <div
-                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                        height="50px">
-                        <img src="/images/icons/snowmachine.png" alt="" width="80" height="80">
-                    <a href="/personal/#snowmachine" class="mt-8 extended-link text-black hover:text-white">Snow
-                        Machine</a>
-                </div>
+                class="md:col-span-2 lg:col-span-1 w-full md:w-1/2 mx-auto lg:w-full holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                    height="50px">
+                    <img class="icon" src="/images/icons/personal-umbrella-lime.png" alt="" width="80" height="80">
+                <a href="/personal/#umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
+                    Umbrella</a>
             </div>
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-4 mt-4">
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-4 mt-4">
+                <div
+                class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                    height="50px">
+                    <img class="icon" src="/images/icons/watercraft-lime.png" alt="" width="80" height="80">
+                <a href="/personal/#marine" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
+            </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img src="/images/icons/rv.png" alt="" width="80" height="80">
+                        <img class="icon" src="/images/icons/rv-lime.png" alt="" width="80" height="80">
                     <a href="/personal/#rv" class="mt-8 extended-link text-black hover:text-white">RV</a>
-                </div>
-                <div
-                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                        height="50px">
-                        <img src="/images/icons/atv.png" alt="" width="80" height="80">
-                    <a href="/personal/#atv" class="mt-8 extended-link text-black hover:text-white">ATV</a>
-                </div>
-                <div
-                    class="md:col-span-2 lg:col-span-1 w-full md:w-1/2 mx-auto lg:w-full holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                        height="50px">
-                        <img src="/images/icons/personal-umbrella.png" alt="" width="80" height="80">
-                    <a href="/personal/#umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
-                        Umbrella</a>
                 </div>
             </div>
         </section>

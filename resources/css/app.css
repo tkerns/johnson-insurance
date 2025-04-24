@@ -110,3 +110,7 @@
         color: white;
     }
 
+    .holder:hover>.icon{
+        filter: brightness(500%);
+    }
+
