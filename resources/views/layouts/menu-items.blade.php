@@ -23,28 +23,19 @@
             <a href="/business/#auto">Commercial Auto & Trucking</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#equipment">Equipment Insurance</a>
+            <a href="/business/#employment">Employment Practices</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#marine">Ocean Marine</a>
-        </li>
-        <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#aviation">Aviation</a>
+            <a href="/business/#cyber">Cyber Liability</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
             <a href="/business/#umbrella">Commercial Umbrella</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#pro-liability">Professional Liability</a>
+            <a href="/business/#environment">Environmental Liability</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#liquor">Liquor Liability</a>
-        </li>
-        <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#employment">Employment Practices</a>
-        </li>
-        <li class="hover:underline hover:text-brand-lime">
-            <a href="/business/#cyber">Cyber Liability</a>
+            <a href="/business/#more">Additional Commercial Insurance Products</a>
         </li>
     </ul>
 </li>
@@ -64,19 +55,13 @@
             <a href="/personal/#auto">Personal Auto</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/#watercraft">Watercraft</a>
+            <a href="/personal/#umbrella">Personal Umbrella</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/#snowmachine">Snowmachine</a>
-        </li>
-        <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/#atv">ATV</a>
+            <a href="/personal/#marine">Watercraft</a>
         </li>
         <li class="hover:underline hover:text-brand-lime">
             <a href="/personal/#rv">RV</a>
-        </li>
-        <li class="hover:underline hover:text-brand-lime">
-            <a href="/personal/#umbrella">Personal Umbrella</a>
         </li>
     </ul>
 </li>
