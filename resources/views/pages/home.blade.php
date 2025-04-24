@@ -106,8 +106,8 @@
                 <h2 class="text-4xl text-center">BUSINESS INSURANCE</h2>
                 <hr class="mx-auto border-2 border-white w-10 mt-6">
             </div>
-            <div class="content-box flex flex-col md:flex-row">
-                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
+            <div class="content-box flex flex-col sm:flex-row">
+                <div class="sm:w-1/3 py-8 border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/workers-comp.png" alt="" width="80" height="80">
@@ -127,7 +127,7 @@
                         <a href="/business/#property" class="extended-link text-center">Commercial Property</a>
                     </div>
                 </div>
-                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
+                <div class="sm:w-1/3 py-8 sm:border-x border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4 mt-6">
                             <img src="/images/icons/auto-trucking.png" alt="" width="80" height="80">
@@ -148,7 +148,7 @@
                         <a href="/business/#cyber" class="extended-link text-center">Cyber Liability</a>
                     </div>
                 </div>
-                <div class="md:w-1/3 py-8 md:border-r border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
+                <div class="sm:w-1/3 py-8 border-white flex flex-col flex-wrap gap-y-16 justify-evenly">
                     <div class="flex flex-col justify-center relative">
                         <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/umbrella.png" alt="" width="80" height="80">

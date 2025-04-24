@@ -40,9 +40,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="workers-comp">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-1.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Worker's Compensation</h2>
                     <p>If your business is currently in the Assigned Risk Pool for Workers’ Compensation coverage, you’re
                         likely
@@ -80,9 +80,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="general">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-2.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>General Liability</h2>
                     <h3>Protect Your Business with a Competitively Priced Commercial General Liability Policy
                     </h3>
@@ -143,9 +143,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="property">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-3.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Commercial Property</h2>
                     <h3>Protect Your Business with Comprehensive Commercial Property Insurance</h3>
                     <p>A Commercial Property Policy is a critical component of protecting your business assets, offering
@@ -214,9 +214,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="auto">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-4.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Commercial Auto and Trucking</h2>
                     <h3>Protect Your Business with a Comprehensive Auto Insurance Policy</h3>
                     <p>
@@ -295,9 +295,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="employment">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-11.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Employment Practices</h2>
                     <h3>Protect Your Business with Employment Practices Liability Insurance (EPLI)</h3>
                     <p>In today’s litigious environment, it’s essential to have the right protections in place to defend
@@ -371,9 +371,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="cyber">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-12.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Cyber Liability</h2>
                     <h3>Protect Your Business with Cyber Liability Insurance</h3>
                     <p>
@@ -453,9 +453,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="umbrella">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/business-8.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Commercial Umbrella</h2>
                     <h3>Protect Your Business with Commercial Umbrella Insurance</h3>
                     <p>Every business faces risks — some expected, others unforeseen. While your primary insurance policies
@@ -526,9 +526,9 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="environment">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+            <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
                 <img src="/images/nature.jpg" alt="">
-                <div class="mt-4">
+                <div>
                     <h2>Protect Your Business with Environmental Liability Insurance</h2>
                     <p>In today’s world, environmental risks are a growing concern for businesses across industries. Whether
                         it’s a spill, contamination, or pollution, environmental incidents can result in significant
@@ -564,8 +564,8 @@
             <p>At Johnson Insurance Group, we understand that every business is unique and has specialized insurance needs.
                 In addition to the widely requested commercial products, we also offer comprehensive solutions in the
                 following areas:</p>
-            <div id="bonds" class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <div class="mt-4">
+            <div id="bonds" class="flex flex-col md:flex-row gap-8 items-start mb-8">
+                <div>
                     <h3>Surety Bonds: Protect Your Business with Confidence</h3>
                     <ul class="list-disc pl-4 mb-3">
                         <li>
@@ -587,8 +587,8 @@
                     </ul>
                 </div>
             </div>
-            <div id="pro" class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <div class="mt-4">
+            <div id="pro" class="flex flex-col md:flex-row gap-8 items-start mb-8">
+                <div>
                     <h3>Professional Liability: Coverage for a Wide Range of Professions</h3>
                     <p>Protect your business from the unique risks professionals face. Our <span
                             class="font-bold">Professional Liability Insurance</span> programs offer competitive coverage
@@ -614,8 +614,8 @@
                     </ul>
                 </div>
             </div>
-            <div id="marine" class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <div class="mt-4">
+            <div id="marine" class="flex flex-col md:flex-row gap-8 items-start mb-8">
+                <div>
                     <h3>Marine Insurance: Comprehensive Coverage for Marine Risks</h3>
                     <p>Whether your business involves transporting goods or operating on water, <span
                             class="font-bold">Marine Insurance</span> offers
