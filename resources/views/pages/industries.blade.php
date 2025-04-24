@@ -153,7 +153,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="commercial">
             <div class="flex flex-col md:flex-row gap-8 items-start mb-8">
-                <img src="" alt="">
+                <img src="/images/storefront.jpg" alt="">
                 <div>
                     <h2>Insurance for Commercial Buildings in Alaska</h2>
                     <p>From harsh weather conditions to the logistical complexities of remote locations, if you own a

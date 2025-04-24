@@ -212,37 +212,40 @@
         </section>
         <hr class="my-12 border-2 border-brand-lime">
         <section id="rv-watercraft">
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="/images/personal-3.jpg" alt="">
-                <div class="mt-4">
-                    <h2>Recreational Vehicle (RV) and Marine Insurance: Protecting Your Adventures</h2>
-                    <p>At <span class="font-bold">Johnson Insurance Group</span>, we understand that your recreational
-                        vehicles and watercraft are more
-                        than just transportation—they're part of your lifestyle. Whether you're hitting the open road in an
-                        RV or cruising the waters in a boat, you need reliable insurance to protect your adventures. We
-                        offer <span class="font-bold">Recreational Vehicle (RV) Insurance</span> and <span
-                            class="font-bold">Marine Insurance</span> to provide peace of mind for your
-                        personal travels and water-based activities.</p>
+            <h2>Recreational Vehicle (RV) and Marine Insurance: Protecting Your Adventures</h2>
+            <p>At <span class="font-bold">Johnson Insurance Group</span>, we understand that your recreational
+                vehicles and watercraft are more
+                than just transportation—they're part of your lifestyle. Whether you're hitting the open road in an
+                RV or cruising the waters in a boat, you need reliable insurance to protect your adventures. We
+                offer <span class="font-bold">Recreational Vehicle (RV) Insurance</span> and <span class="font-bold">Marine
+                    Insurance</span> to provide peace of mind for your
+                personal travels and water-based activities.</p>
+            <div id="rv" class="my-8">
+                <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+                    <img src="/images/personal-5.jpg" alt="">
+                    <div class="mt-4">
+                        <h3>Recreational Vehicle (RV) Insurance: Coverage for the Road Ahead</h3>
+                        <p>Owning an RV opens up endless possibilities for travel and adventure, but it also comes with
+                            unique risks.
+                            <span class="font-bold">
+                                RV Insurance
+                            </span> from <span class="font-bold">Johnson Insurance Group</span> offers:
+                        </p>
+                    </div>
                 </div>
-            </div>
-            <div id="rv">
-                <h3>Recreational Vehicle (RV) Insurance: Coverage for the Road Ahead</h3>
-                <p>Owning an RV opens up endless possibilities for travel and adventure, but it also comes with unique risks.
-                    <span class="font-bold">
-                        RV Insurance
-                    </span> from <span class="font-bold">Johnson Insurance Group</span> offers:
-                </p>
                 <ul class="list-disc pl-4 mb-3">
                     <li>
                         <span class="font-bold">Comprehensive Coverage: </span>Protects your RV from damages caused by
                         accidents, fire, theft, or vandalism.
                     </li>
                     <li>
-                        <span class="font-bold">Liability Protection: </span>Covers injuries or damages you may cause to others
+                        <span class="font-bold">Liability Protection: </span>Covers injuries or damages you may cause to
+                        others
                         while operating your RV.
                     </li>
                     <li>
-                        <span class="font-bold">Personal Property Coverage: </span>Safeguards the belongings you carry in your
+                        <span class="font-bold">Personal Property Coverage: </span>Safeguards the belongings you carry in
+                        your
                         RV, including electronics, clothes, and other personal items.
                     </li>
                     <li>
@@ -255,14 +258,21 @@
                     </li>
                 </ul>
             </div>
-            <div id="marine">
-                <h3>Marine Insurance: Protecting Your Watercraft and Maritime Activities</h3>
-                <p>Whether you're boating for leisure or fishing the waters of Alaska, <span class="font-bold">Marine
-                        Insurance</span> is essential to protect
-                    your investment. <span class="font-bold">Johnson Insurance Group</span> offers:</p>
+            <div id="marine" class="my-8">
+                <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
+                    <img src="/images/personal-3.jpg" alt="">
+                    <div class="mt-4">
+                        <h3>Marine Insurance: Protecting Your Watercraft and Maritime Activities</h3>
+                        <p>Whether you're boating for leisure or fishing the waters of Alaska, <span
+                                class="font-bold">Marine
+                                Insurance</span> is essential to protect
+                            your investment. <span class="font-bold">Johnson Insurance Group</span> offers:</p>
+                    </div>
+                </div>
                 <ul class="list-disc pl-4 mb-3">
                     <li>
-                        <span class="font-bold">Boat Insurance: </span>Covers damage to your boat, personal watercraft, or yacht
+                        <span class="font-bold">Boat Insurance: </span>Covers damage to your boat, personal watercraft, or
+                        yacht
                         caused by accidents, storms, or vandalism.
                     </li>
                     <li>
@@ -270,13 +280,15 @@
                         property damage caused by your watercraft.
                     </li>
                     <li>
-                        <span class="font-bold">Protection for Equipment & Accessories: </span>Coverage for motors, trailers,
+                        <span class="font-bold">Protection for Equipment & Accessories: </span>Coverage for motors,
+                        trailers,
                         fishing gear, and other valuable accessories on board.
                     </li>
                 </ul>
             </div>
-            <h3>How Johnson Insurance Group Can Help:</h3>
-            <p>At <span class="font-bold">Johnson Insurance Group</span>, we take a personalized approach to protecting your
+            <h3 class="text-center text-2xl">How Johnson Insurance Group Can Help:</h3>
+            <p>At <span class="font-bold">Johnson Insurance Group</span>, we take a personalized approach to protecting
+                your
                 RV and marine investments.
                 Here’s how we can help:</p>
             <ul class="list-disc pl-4 mb-3">
@@ -299,7 +311,8 @@
                 </li>
             </ul>
             <p>
-                Protect your recreational vehicle and watercraft with the right insurance coverage from <span class="font-bold">
+                Protect your recreational vehicle and watercraft with the right insurance coverage from <span
+                    class="font-bold">
                     Johnson Insurance
                     Group
                 </span>. Contact us today to learn how we can help safeguard your adventures on the road and the water.

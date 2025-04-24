@@ -527,7 +527,7 @@
         <hr class="my-12 border-2 border-brand-lime">
         <section id="environment">
             <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="" alt="">
+                <img src="/images/nature.jpg" alt="">
                 <div class="mt-4">
                     <h2>Protect Your Business with Environmental Liability Insurance</h2>
                     <p>In today’s world, environmental risks are a growing concern for businesses across industries. Whether
