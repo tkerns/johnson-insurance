@@ -565,7 +565,6 @@
                 In addition to the widely requested commercial products, we also offer comprehensive solutions in the
                 following areas:</p>
             <div id="bonds" class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="" alt="">
                 <div class="mt-4">
                     <h3>Surety Bonds: Protect Your Business with Confidence</h3>
                     <ul class="list-disc pl-4 mb-3">
@@ -588,8 +587,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="" alt="">
+            <div id="pro" class="flex flex-col md:flex-row gap-8 items-center mb-8">
                 <div class="mt-4">
                     <h3>Professional Liability: Coverage for a Wide Range of Professions</h3>
                     <p>Protect your business from the unique risks professionals face. Our <span
@@ -617,7 +615,6 @@
                 </div>
             </div>
             <div id="marine" class="flex flex-col md:flex-row gap-8 items-center mb-8">
-                <img src="" alt="">
                 <div class="mt-4">
                     <h3>Marine Insurance: Comprehensive Coverage for Marine Risks</h3>
                     <p>Whether your business involves transporting goods or operating on water, <span
