@@ -60,22 +60,22 @@
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/welding.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Construction</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
+                    <a href="/industries/#construction" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/taps.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
+                    <a href="/industries/#restaurant" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/plane.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
+                    <a href="/industries/#lodge-guide" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
                 <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
                     style="background-image: url('/images/driver.jpg')">
                     <h3 class="industry text-shadow-dark mb-0">Oil And Gas</h3>
-                    <a href="" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
+                    <a href="/industries/#oil-gas" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
                 </div>
             </div>
         </section>
