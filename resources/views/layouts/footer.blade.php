@@ -49,11 +49,13 @@
                                 </svg>
                             </div>
                             <p>
-                                <a href="mailto:annie@johnsoninsuranceak.com">
+
                                     Email:
-                                    <br>
-                                    annie@johnsoninsuranceak.com
-                                </a>
+                                <br>
+                                <a href="mailto:annie@johnsoninsuranceak.com">annie@johnsoninsuranceak.com</a>
+                                <br>
+                                <a href="mailto:blaine@johnsoninsuranceak.com">blaine@johnsoninsuranceak.com</a>
+
                             </p>
                         </li>
                     </ul>
