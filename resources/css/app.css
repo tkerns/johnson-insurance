@@ -11,6 +11,10 @@
     --color-brand-lime: #99cc33;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 /*
 * ============================
