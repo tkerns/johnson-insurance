@@ -4,14 +4,14 @@
             <div class="mt-6 xl:w-1/2">
                 <img class="mx-auto lg:ml-0" src="/images/logo.webp" alt="Johnson Insurance Group" width="470px" height="auto">
                 <div class="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-x-16 gap-y-8 mt-12">
-                    <img class="w-[150px] sm:w-[100px]" src="/images/coe-badge-2024.webp" alt="" width="100px" height="auto">
-                    <img class="w-[150px] sm:w-[100px]" src="/images/badge-2.webp" alt="" width="100px" height="auto">
-                    <img class="w-[150px] sm:w-[100px]" src="/images/badge-3.webp" alt="" width="100px" height="auto">
+                    <img class="w-[150px] sm:w-[100px]" src="/images/coe-badge-2024.webp" alt="Circle of excellence, commercial lines-- Umialik Insurance Company, 2024" width="100px" height="auto">
+                    <img class="w-[150px] sm:w-[100px]" src="/images/badge-2.webp" alt="Trusted Choice badge" width="100px" height="auto">
+                    <img class="w-[150px] sm:w-[100px]" src="/images/badge-3.webp" alt="Platinum Agency, personal lines-- Umialik Insurance Company, 2025" width="100px" height="auto">
                 </div>
             </div>
             <div class="xl:w-1/2 flex flex-col sm:flex-row gap-8 items-center lg:items-start justify-evenly lg:justify-between">
                 <div>
-                    <h4 class="mb-4 md:mb-10">Contact Us</h4>
+                    <h2 class="text-xl font-bold mb-4 md:mb-10">Contact Us</h2>
                     <ul class="flex flex-col">
                         <li class="flex gap-6 items-center text-lg">
                             <div class="rounded-full bg-brand-lime p-4 flex items-center justify-center">
@@ -61,7 +61,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h4 class="mb-4 md:mb-10">Quick Links</h4>
+                    <h2 class="text-xl font-bold mb-4 md:mb-10">Quick Links</h2>
                     <ul class="flex flex-col gap-2 text-xl">
                         <li>
                             <a class="hover:underline hover:text-brand-lime" href="/">

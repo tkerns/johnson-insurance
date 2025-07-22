@@ -102,14 +102,8 @@ html {
         display: none;
     }
 
-    .industry {
-        @media (min-width: 992px) {
-            display: none;
-        }
-    }
-
     .holder:hover>.cutout,
-    .holder:hover>.industry {
+    .holder:focus>.cutout{
         display: flex;
         color: white;
     }
@@ -118,3 +112,17 @@ html {
         filter: brightness(500%);
     }
 
+    .industry{
+        @apply relative md:w-1/4 h-[250px] md:h-[500px] flex items-end bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300
+    }
+
+    .industry:focus,
+    .industry:hover{
+        @apply bg-brand-lime
+    }
+
+    .industry:focus div,
+    .industry:hover div
+    {
+        @apply flex;
+    }

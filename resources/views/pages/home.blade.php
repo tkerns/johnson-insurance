@@ -57,31 +57,40 @@
                 <hr class="mx-auto border-2 border-black w-12 mt-6">
             </div>
             <div class="text-white flex flex-col md:flex-row gap-[2px]">
-                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/welding.jpg')">
-                    <h3 class="industry text-shadow-dark mb-0">Construction</h3>
-                    <a href="/industries/#construction" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
-                </div>
-                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/taps.jpg')">
-                    <h3 class="industry text-shadow-dark mb-0">Commercial Buildings & Restaurants</h3>
-                    <a href="/industries/#restaurant" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
-                </div>
-                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/plane.jpg')">
-                    <h3 class="industry text-shadow-dark mb-0">Lodge & Guiding Businesses</h3>
-                    <a href="/industries/#lodge-guide" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
-                </div>
-                <div class="holder relative md:w-1/4 h-[250px] md:h-[500px] flex md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between p-4 bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300"
-                    style="background-image: url('/images/driver.jpg')">
-                    <h3 class="industry text-shadow-dark mb-0">Oil And Gas</h3>
-                    <a href="/industries/#oil-gas" class="industry text-shadow-dark extended-link underline text-right">View Details</a>
-                </div>
+                <a href="/industries/#construction" class="industry" style="background-image: url('/images/welding.jpg')">
+                    <div
+                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        <h3 class="mb-0">Construction</h3>
+                        <span class="block text-right underline">View Details</span>
+                    </div>
+                </a>
+                <a href="/industries/#restaurant" class="industry" style="background-image: url('/images/taps.jpg')">
+                    <div
+                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        <h3 class="mb-0">Commercial Buildings & Restaurants</h3>
+                        <span class="block text-right underline">View Details</span>
+                    </div>
+                </a>
+                <a href="/industries/#lodge-guide" class="industry" style="background-image: url('/images/plane.jpg')">
+                    <div
+                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        <h3 class="mb-0">Lodge & Guiding Businesses</h3>
+                        <span class="block text-right underline">View Details</span>
+                    </div>
+                </a>
+                <a href="/industries/#oil-gas" class="industry" style="background-image: url('/images/driver.jpg')">
+                    <div
+                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        <h3 class="mb-0">Oil And Gas</h3>
+                        <span class="block text-right underline">View Details</span>
+                    </div>
+                </a>
             </div>
         </section>
         <section class="my-4 content-box flex flex-col lg:flex-row items-center justify-evenly gap-8 md:px-14 py-8">
             <div class="lg:w-1/2">
-                <img src="/images/about.webp" alt="">
+                <img src="/images/about.webp"
+                    alt="A photo of a lake with trees and mountains in the background. In the upper-right corner is a badge with the text 'Circle of excellence, 2017-2024'.">
             </div>
             <div class="lg:w-1/2 md:px-8 py-8">
                 <h2 class="text-5xl">ABOUT US</h2>
@@ -93,9 +102,13 @@
                         instilled in us an entrepreneurial spirit and a desire to build a business based on honesty, hard
                         work, and doing right by our clients, every time.</p>
                 </div>
-                <div class="flex flex-col md:flex-row gap-8 mt-12 text-xl">
-                    <a href="/contact" class="btn bg-brand-lime text-white">Get Started</a>
-                    <a href="/about" class="btn bg-black text-white">Read More</a>
+                <div class="flex flex-col sm:flex-row gap-8 mt-12 text-xl">
+                    <a href="/contact" class="btn bg-brand-lime text-white" aria-label="Get started with Johnson Insurance">
+                        Get Started
+                    </a>
+                    <a href="/about" class="btn bg-black text-white" aria-label="Read more about Johnson Insurance">
+                        Read More
+                    </a>
                     <a href="/news" class="btn bg-brand-lime text-white">News</a>
                 </div>
             </div>
@@ -165,7 +178,8 @@
                         <div class="w-fit mx-auto mb-4">
                             <img src="/images/icons/plus.svg" alt="" width="80" height="80">
                         </div>
-                        <a href="/business/#more" class="extended-link text-center">Additional Commercial Insurance Products</a>
+                        <a href="/business/#more" class="extended-link text-center">Additional Commercial Insurance
+                            Products</a>
                     </div>
                 </div>
             </div>
@@ -181,7 +195,8 @@
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img class="icon" src="/images/icons/homeowner-lime.png" alt="" width="80" height="80">
+                    <img class="icon" src="/images/icons/homeowner-lime.png" alt="" width="80"
+                        height="80">
                     <a href="/personal/#homeowner" class="mt-8 extended-link text-black hover:text-white">Homeowner's
                         Insurance</a>
                 </div>
@@ -189,31 +204,34 @@
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img class="icon" src="/images/icons/personal-auto-lime.png" alt="" width="80" height="80">
+                    <img class="icon" src="/images/icons/personal-auto-lime.png" alt="" width="80"
+                        height="80">
                     <a href="/personal/#auto" class="mt-8 extended-link text-black hover:text-white">Personal Auto</a>
                 </div>
                 <div
-                class="md:col-span-2 lg:col-span-1 w-full md:w-1/2 mx-auto lg:w-full holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                    height="50px">
-                    <img class="icon" src="/images/icons/personal-umbrella-lime.png" alt="" width="80" height="80">
-                <a href="/personal/#umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
-                    Umbrella</a>
-            </div>
+                    class="md:col-span-2 lg:col-span-1 w-full md:w-1/2 mx-auto lg:w-full holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
+                    <img class="icon" src="/images/icons/personal-umbrella-lime.png" alt="" width="80"
+                        height="80">
+                    <a href="/personal/#umbrella" class="mt-8 extended-link text-black hover:text-white">Personal
+                        Umbrella</a>
+                </div>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-4 mt-4">
-                <div
-                class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
-                <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
-                    height="50px">
-                    <img class="icon" src="/images/icons/watercraft-lime.png" alt="" width="80" height="80">
-                <a href="/personal/#marine" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
-            </div>
                 <div
                     class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
                     <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
                         height="50px">
-                        <img class="icon" src="/images/icons/rv-lime.png" alt="" width="80" height="80">
+                    <img class="icon" src="/images/icons/watercraft-lime.png" alt="" width="80"
+                        height="80">
+                    <a href="/personal/#marine" class="mt-8 extended-link text-black hover:text-white">Watercraft</a>
+                </div>
+                <div
+                    class="holder bg-gray-100 p-8 py-10 flex flex-col items-center justify-center relative text-brand-lime hover:bg-brand-lime hover:text-white">
+                    <img class="cutout absolute bottom-0 right-0" src="/images/puzzle.svg" alt="" width="50px"
+                        height="50px">
+                    <img class="icon" src="/images/icons/rv-lime.png" alt="" width="80" height="80">
                     <a href="/personal/#rv" class="mt-8 extended-link text-black hover:text-white">RV</a>
                 </div>
             </div>

@@ -2,14 +2,16 @@
     <a href="/">Home</a>
 </li>
 <li x-data='{openBusiness:false}'>
-    <button class="hover:underline hover:text-brand-lime flex items-center gap-2" @click="openBusiness = !openBusiness">
+    <button :aria-expanded="openBusiness ? 'true' : 'false'" aria-controls="business" class="hover:underline hover:text-brand-lime flex items-center gap-2" @click="openBusiness = !openBusiness">
         Business Insurance
         <svg class="mt-1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
             <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                 stroke-width="4" d="M36 18L24 30L12 18" />
         </svg>
     </button>
-    <ul x-cloak x-show="openBusiness" @click.outside="openBusiness=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
+    <ul id="business" x-cloak x-show="openBusiness" @click.outside="openBusiness=false"
+    x-trap="openBusiness" @keydown.esc="openBusiness=false"
+    class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
             <a href="/business/#workers-comp">Workers' Compensation</a>
         </li>
@@ -40,14 +42,16 @@
     </ul>
 </li>
 <li x-data='{openPersonal:false}'>
-    <button class="hover:underline hover:text-brand-lime flex items-center gap-2" @click="openPersonal = !openPersonal">
+    <button :aria-expanded="openPersonal ? 'true' : 'false'" aria-controls="personal" class="hover:underline hover:text-brand-lime flex items-center gap-2" @click="openPersonal = !openPersonal">
         Personal Insurance
         <svg class="mt-1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48">
             <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
                 stroke-width="4" d="M36 18L24 30L12 18" />
         </svg>
     </button>
-    <ul x-cloak x-show="openPersonal" @click.outside="openPersonal=false" class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
+    <ul id="personal" x-cloak x-show="openPersonal" @click.outside="openPersonal=false"
+    x-trap="openPersonal" @keydown.esc="openPersonal=false"
+    class="absolute z-20 bg-white p-4 shadow-lg mt-2 rounded-md flex flex-col gap-2">
         <li class="hover:underline hover:text-brand-lime">
             <a href="/personal/#homeowner">Homeowner's Insurance</a>
         </li>
