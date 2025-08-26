@@ -72,57 +72,69 @@ html {
 *=============================
 */
 
-    .extended-link::after {
-        position: absolute;
-        top: 0;
-        left: 0;
-        content: '';
-        display: block;
-        width: 100%;
-        height: 100%;
-    }
+.extended-link::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+}
 
-    [x-cloak] {
-        display: none !important;
-    }
+[x-cloak] {
+    display: none !important;
+}
 
-    .text-shadow-dark {
-        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 9px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.9);
-    }
+.text-shadow-dark {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 5px rgba(0, 0, 0, 0.4), 1px 1px 9px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.9);
+}
 
-    .text-shadow-light {
-        text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 9px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(255, 255, 255, 0.9);
-    }
+.text-shadow-light {
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 5px rgba(255, 255, 255, 0.4), 1px 1px 9px rgba(255, 255, 255, 0.4), 1px 1px 2px rgba(255, 255, 255, 0.9);
+}
 
-    .bb {
-        @apply border border-black
-    }
+.bb {
+    @apply border border-black
+}
 
-    .cutout {
-        display: none;
-    }
+.cutout {
+    display: none;
+}
 
-    .holder:hover>.cutout,
-    .holder:focus>.cutout{
-        display: flex;
-        color: white;
-    }
+.holder:hover>.cutout,
+.holder:focus>.cutout {
+    display: flex;
+    color: white;
+}
 
-    .holder:hover>.icon{
-        filter: brightness(500%);
-    }
+.holder:hover>.icon {
+    filter: brightness(500%);
+}
 
-    .industry{
-        @apply relative md:w-1/4 h-[250px] md:h-[500px] flex items-end bg-no-repeat bg-cover bg-center bg-blend-multiply hover:bg-brand-lime transition duration-300
-    }
+.industry {
+    @apply relative md:w-1/4 h-[250px] md:h-[500px] flex items-end bg-no-repeat bg-cover bg-center bg-blend-multiply transition duration-300
+}
+
+@media (hover: hover) {
 
     .industry:focus,
-    .industry:hover{
+    .industry:hover {
         @apply bg-brand-lime
     }
 
+    .industry div {
+        @apply hidden;
+    }
+
     .industry:focus div,
-    .industry:hover div
-    {
+    .industry:hover div {
         @apply flex;
     }
+}
+
+@media (hover: none) {
+    .industry div {
+        @apply flex bg-black/80 md:min-h-[150px] xl:min-h-[100px] items-center;
+    }
+}

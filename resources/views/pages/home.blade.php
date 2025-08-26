@@ -59,28 +59,28 @@
             <div class="text-white flex flex-col md:flex-row gap-[2px]">
                 <a href="/industries/#construction" class="industry" style="background-image: url('/images/welding.jpg')">
                     <div
-                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        class="text-shadow-dark w-full p-4 md:flex-col lg:flex-row justify-between md:justify-center lg:justify-between">
                         <h3 class="mb-0">Construction</h3>
                         <span class="block text-right underline">View Details</span>
                     </div>
                 </a>
                 <a href="/industries/#restaurant" class="industry" style="background-image: url('/images/taps.jpg')">
                     <div
-                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        class="text-shadow-dark w-full p-4 md:flex-col lg:flex-row justify-between md:justify-center lg:justify-between">
                         <h3 class="mb-0">Commercial Buildings & Restaurants</h3>
                         <span class="block text-right underline">View Details</span>
                     </div>
                 </a>
                 <a href="/industries/#lodge-guide" class="industry" style="background-image: url('/images/plane.jpg')">
                     <div
-                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        class="text-shadow-dark w-full p-4 md:flex-col lg:flex-row justify-between md:justify-center lg:justify-between">
                         <h3 class="mb-0">Lodge & Guiding Businesses</h3>
                         <span class="block text-right underline">View Details</span>
                     </div>
                 </a>
                 <a href="/industries/#oil-gas" class="industry" style="background-image: url('/images/driver.jpg')">
                     <div
-                        class="bg-black/80 lg:bg-transparent text-shadow-dark w-full p-4 flex lg:hidden md:flex-col lg:flex-row items-end md:items-start lg:items-end justify-between md:justify-end lg:justify-between">
+                        class="text-shadow-dark w-full p-4 md:flex-col lg:flex-row justify-between md:justify-center lg:justify-between">
                         <h3 class="mb-0">Oil And Gas</h3>
                         <span class="block text-right underline">View Details</span>
                     </div>
